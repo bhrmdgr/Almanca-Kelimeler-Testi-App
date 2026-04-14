@@ -1,0 +1,4442 @@
+[
+  {
+    "de": "der Mann",
+    "tr": "adam",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Frau",
+    "tr": "kadın",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Kind",
+    "tr": "çocuk",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Vater",
+    "tr": "baba",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Mutter",
+    "tr": "anne",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Bruder",
+    "tr": "erkek kardeş",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Schwester",
+    "tr": "kız kardeş",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Freund",
+    "tr": "erkek arkadaş",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Freundin",
+    "tr": "kız arkadaş",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Opa",
+    "tr": "büyükbaba",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Oma",
+    "tr": "büyükanne",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Onkel",
+    "tr": "amca/dayı/enişte",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Tante",
+    "tr": "hala/teyze/yenge",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Junge",
+    "tr": "erkek çocuk",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Mädchen",
+    "tr": "kız çocuk",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Baby",
+    "tr": "bebek",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Mensch",
+    "tr": "insan",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Person",
+    "tr": "kişi",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Name",
+    "tr": "isim",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Lehrer",
+    "tr": "öğretmen (erkek)",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Lehrerin",
+    "tr": "öğretmen (kadın)",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Arzt",
+    "tr": "doktor (erkek)",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Ärztin",
+    "tr": "doktor (kadın)",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Student",
+    "tr": "öğrenci (erkek)",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Studentin",
+    "tr": "öğrenci (kadın)",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Schüler",
+    "tr": "öğrenci (erkek, okul)",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Schülerin",
+    "tr": "öğrenci (kadın, okul)",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Chef",
+    "tr": "patron/şef",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Chefin",
+    "tr": "patron/şef (kadın)",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Kollege",
+    "tr": "meslektaş (erkek)",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Kollegin",
+    "tr": "meslektaş (kadın)",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Nachbar",
+    "tr": "komşu (erkek)",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Nachbarin",
+    "tr": "komşu (kadın)",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Kellner",
+    "tr": "garson (erkek)",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Kellnerin",
+    "tr": "garson (kadın)",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Verkäufer",
+    "tr": "satıcı (erkek)",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Verkäuferin",
+    "tr": "satıcı (kadın)",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Polizist",
+    "tr": "polis (erkek)",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Polizistin",
+    "tr": "polis (kadın)",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Freund",
+    "tr": "dost/arkadaş",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Haus",
+    "tr": "ev",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Wohnung",
+    "tr": "daire",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Zimmer",
+    "tr": "oda",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Küche",
+    "tr": "mutfak",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Bad",
+    "tr": "banyo",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Schlafzimmer",
+    "tr": "yatak odası",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Wohnzimmer",
+    "tr": "oturma odası",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Tür",
+    "tr": "kapı",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Fenster",
+    "tr": "pencere",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Tisch",
+    "tr": "masa",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Stuhl",
+    "tr": "sandalye",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Bett",
+    "tr": "yatak",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Sofa",
+    "tr": "kanepe",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Lampe",
+    "tr": "lamba",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Boden",
+    "tr": "zemin/taban",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Wand",
+    "tr": "duvar",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Decke",
+    "tr": "tavan/örtü",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Garten",
+    "tr": "bahçe",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Schlüssel",
+    "tr": "anahtar",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Treppe",
+    "tr": "merdiven",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Brot",
+    "tr": "ekmek",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Butter",
+    "tr": "tereyağı",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Milch",
+    "tr": "süt",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Wasser",
+    "tr": "su",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Kaffee",
+    "tr": "kahve",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Tee",
+    "tr": "çay",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Saft",
+    "tr": "meyve suyu",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Bier",
+    "tr": "bira",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Wein",
+    "tr": "şarap",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Fleisch",
+    "tr": "et",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Fisch",
+    "tr": "balık",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Gemüse",
+    "tr": "sebze",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Obst",
+    "tr": "meyve",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Apfel",
+    "tr": "elma",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Banane",
+    "tr": "muz",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Orange",
+    "tr": "portakal",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Tomate",
+    "tr": "domates",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Kartoffel",
+    "tr": "patates",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Reis",
+    "tr": "pirinç",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Nudeln",
+    "tr": "makarna",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Suppe",
+    "tr": "çorba",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Salat",
+    "tr": "salata",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Käse",
+    "tr": "peynir",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Ei",
+    "tr": "yumurta",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Zucker",
+    "tr": "şeker",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Salz",
+    "tr": "tuz",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Öl",
+    "tr": "yağ",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Kuchen",
+    "tr": "kek/pasta",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Schokolade",
+    "tr": "çikolata",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Eis",
+    "tr": "dondurma/buz",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Hund",
+    "tr": "köpek",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Katze",
+    "tr": "kedi",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Vogel",
+    "tr": "kuş",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Pferd",
+    "tr": "at",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Kuh",
+    "tr": "inek",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Schwein",
+    "tr": "domuz",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Schaf",
+    "tr": "koyun",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Maus",
+    "tr": "fare",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Bär",
+    "tr": "ayı",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Löwe",
+    "tr": "aslan",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Tiger",
+    "tr": "kaplan",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Elefant",
+    "tr": "fil",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Affe",
+    "tr": "maymun",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Schlange",
+    "tr": "yılan",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Frosch",
+    "tr": "kurbağa",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Stadt",
+    "tr": "şehir",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Dorf",
+    "tr": "köy",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Straße",
+    "tr": "cadde/sokak",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Weg",
+    "tr": "yol",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Markt",
+    "tr": "pazar",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Supermarkt",
+    "tr": "süpermarket",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Schule",
+    "tr": "okul",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Universität",
+    "tr": "üniversite",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Krankenhaus",
+    "tr": "hastane",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Hotel",
+    "tr": "otel",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Restaurant",
+    "tr": "restoran",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Café",
+    "tr": "kafe",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Bahnhof",
+    "tr": "tren istasyonu",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Flughafen",
+    "tr": "havalimanı",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Bank",
+    "tr": "banka",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Post",
+    "tr": "posta/postane",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Kirche",
+    "tr": "kilise",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Park",
+    "tr": "park",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Museum",
+    "tr": "müze",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Kino",
+    "tr": "sinema",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Auto",
+    "tr": "araba",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Bus",
+    "tr": "otobüs",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Zug",
+    "tr": "tren",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Fahrrad",
+    "tr": "bisiklet",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Motorrad",
+    "tr": "motosiklet",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Flugzeug",
+    "tr": "uçak",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Schiff",
+    "tr": "gemi",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Taxi",
+    "tr": "taksi",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die U-Bahn",
+    "tr": "metro",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Straßenbahn",
+    "tr": "tramvay",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Kopf",
+    "tr": "baş",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Haar",
+    "tr": "saç",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Gesicht",
+    "tr": "yüz",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Auge",
+    "tr": "göz",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Nase",
+    "tr": "burun",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Mund",
+    "tr": "ağız",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Ohr",
+    "tr": "kulak",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Zahn",
+    "tr": "diş",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Arm",
+    "tr": "kol",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Hand",
+    "tr": "el",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Finger",
+    "tr": "parmak",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Bein",
+    "tr": "bacak",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Fuß",
+    "tr": "ayak",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Bauch",
+    "tr": "karın",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Rücken",
+    "tr": "sırt",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Herz",
+    "tr": "kalp",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Hemd",
+    "tr": "gömlek",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Hose",
+    "tr": "pantolon",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Rock",
+    "tr": "etek",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Kleid",
+    "tr": "elbise",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Jacke",
+    "tr": "ceket",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Mantel",
+    "tr": "palto",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Schuh",
+    "tr": "ayakkabı",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Socke",
+    "tr": "çorap",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Mütze",
+    "tr": "bere",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Handschuh",
+    "tr": "eldiven",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Brille",
+    "tr": "gözlük",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Tasche",
+    "tr": "çanta",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Tag",
+    "tr": "gün",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Nacht",
+    "tr": "gece",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Morgen",
+    "tr": "sabah",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Abend",
+    "tr": "akşam",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Mittag",
+    "tr": "öğle",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Stunde",
+    "tr": "saat",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Minute",
+    "tr": "dakika",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Sekunde",
+    "tr": "saniye",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Woche",
+    "tr": "hafta",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Monat",
+    "tr": "ay",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Jahr",
+    "tr": "yıl",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Montag",
+    "tr": "Pazartesi",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Dienstag",
+    "tr": "Salı",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Mittwoch",
+    "tr": "Çarşamba",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Donnerstag",
+    "tr": "Perşembe",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Freitag",
+    "tr": "Cuma",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Samstag",
+    "tr": "Cumartesi",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Sonntag",
+    "tr": "Pazar",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Frühling",
+    "tr": "ilkbahar",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Sommer",
+    "tr": "yaz",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Herbst",
+    "tr": "sonbahar",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Winter",
+    "tr": "kış",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Geld",
+    "tr": "para",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Euro",
+    "tr": "euro",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Preis",
+    "tr": "fiyat",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Ticket",
+    "tr": "bilet",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Brief",
+    "tr": "mektup",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Zeitung",
+    "tr": "gazete",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Buch",
+    "tr": "kitap",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Heft",
+    "tr": "defter",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Stift",
+    "tr": "kalem",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Rucksack",
+    "tr": "sırt çantası",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Handy",
+    "tr": "cep telefonu",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Computer",
+    "tr": "bilgisayar",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Fernseher",
+    "tr": "televizyon",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Radio",
+    "tr": "radyo",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Kamera",
+    "tr": "kamera",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Uhr",
+    "tr": "saat (kol/duvar)",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Teller",
+    "tr": "tabak",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Tasse",
+    "tr": "fincan/bardak",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Glas",
+    "tr": "bardak/cam",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Flasche",
+    "tr": "şişe",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Löffel",
+    "tr": "kaşık",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Gabel",
+    "tr": "çatal",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Messer",
+    "tr": "bıçak",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Wetter",
+    "tr": "hava durumu",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Sonne",
+    "tr": "güneş",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Regen",
+    "tr": "yağmur",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Schnee",
+    "tr": "kar",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Wind",
+    "tr": "rüzgar",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Wolke",
+    "tr": "bulut",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Sturm",
+    "tr": "fırtına",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Berg",
+    "tr": "dağ",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Fluss",
+    "tr": "nehir",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der See",
+    "tr": "göl",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Meer",
+    "tr": "deniz",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Strand",
+    "tr": "plaj",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Baum",
+    "tr": "ağaç",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Blume",
+    "tr": "çiçek",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Gras",
+    "tr": "çimen",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Frage",
+    "tr": "soru",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Antwort",
+    "tr": "cevap",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Problem",
+    "tr": "sorun",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Lösung",
+    "tr": "çözüm",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Idee",
+    "tr": "fikir",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Meinung",
+    "tr": "görüş",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Beispiel",
+    "tr": "örnek",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Fehler",
+    "tr": "hata",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Erfolg",
+    "tr": "başarı",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Arbeit",
+    "tr": "iş",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Beruf",
+    "tr": "meslek",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Hobby",
+    "tr": "hobi",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Sprache",
+    "tr": "dil",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Wort",
+    "tr": "kelime",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Satz",
+    "tr": "cümle",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Zahl",
+    "tr": "sayı",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Farbe",
+    "tr": "renk",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Platz",
+    "tr": "yer/meydan",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Seite",
+    "tr": "sayfa/taraf",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Teil",
+    "tr": "parça/kısım",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "gut",
+    "tr": "iyi",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "schlecht",
+    "tr": "kötü",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "groß",
+    "tr": "büyük",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "klein",
+    "tr": "küçük",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "lang",
+    "tr": "uzun (boy/uzunluk)",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "kurz",
+    "tr": "kısa",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "hoch",
+    "tr": "yüksek",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "niedrig",
+    "tr": "alçak",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "breit",
+    "tr": "geniş (en)",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "schmal",
+    "tr": "dar/ince",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "dick",
+    "tr": "şişman/kalın",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "dünn",
+    "tr": "ince/zayıf",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "alt",
+    "tr": "yaşlı/eski",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "jung",
+    "tr": "genç",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "neu",
+    "tr": "yeni",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "schön",
+    "tr": "güzel",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "hässlich",
+    "tr": "çirkin",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "sauber",
+    "tr": "temiz",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "schmutzig",
+    "tr": "kirli",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "hell",
+    "tr": "aydınlık/açık (renk)",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "dunkel",
+    "tr": "karanlık/koyu",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "warm",
+    "tr": "ılık/sıcak",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "kalt",
+    "tr": "soğuk",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "heiß",
+    "tr": "sıcak (çok)",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "laut",
+    "tr": "gürültülü/yüksek sesli",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "leise",
+    "tr": "sessiz/alçak sesli",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "schnell",
+    "tr": "hızlı",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "langsam",
+    "tr": "yavaş",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "stark",
+    "tr": "güçlü",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "schwach",
+    "tr": "zayıf/güçsüz",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "schwer",
+    "tr": "ağır/zor",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "leicht",
+    "tr": "hafif/kolay",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "hart",
+    "tr": "sert/zor",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "weich",
+    "tr": "yumuşak",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "nass",
+    "tr": "ıslak",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "trocken",
+    "tr": "kuru",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "voll",
+    "tr": "dolu",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "leer",
+    "tr": "boş",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "offen",
+    "tr": "açık",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "geschlossen",
+    "tr": "kapalı",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "richtig",
+    "tr": "doğru",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "falsch",
+    "tr": "yanlış",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "einfach",
+    "tr": "basit/kolay",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "schwierig",
+    "tr": "zor/güç",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "interessant",
+    "tr": "ilginç",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "langweilig",
+    "tr": "sıkıcı",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "lustig",
+    "tr": "komik/eğlenceli",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "traurig",
+    "tr": "üzgün",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "glücklich",
+    "tr": "mutlu",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "müde",
+    "tr": "yorgun",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "krank",
+    "tr": "hasta",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "gesund",
+    "tr": "sağlıklı",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "hungrig",
+    "tr": "aç",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "durstig",
+    "tr": "susuz",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "satt",
+    "tr": "tok",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "wütend",
+    "tr": "kızgın",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "nervös",
+    "tr": "sinirli/gergin",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "ruhig",
+    "tr": "sakin",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "aufgeregt",
+    "tr": "heyecanlı",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "entspannt",
+    "tr": "rahatlamış",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "gestresst",
+    "tr": "stresli",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "ängstlich",
+    "tr": "korkmuş/endişeli",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "mutig",
+    "tr": "cesur",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "schüchtern",
+    "tr": "utangaç",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "überrascht",
+    "tr": "şaşırmış",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "enttäuscht",
+    "tr": "hayal kırıklığına uğramış",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "zufrieden",
+    "tr": "memnun",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "unzufrieden",
+    "tr": "memnun değil",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "verliebt",
+    "tr": "aşık",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "einsam",
+    "tr": "yalnız",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "freundlich",
+    "tr": "dost canlısı",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "nett",
+    "tr": "nazik/iyi",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "böse",
+    "tr": "kötü/kızgın",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "lieb",
+    "tr": "sevimli/sevecen",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "klug",
+    "tr": "akıllı",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "dumm",
+    "tr": "aptal/ahmak",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "fleißig",
+    "tr": "çalışkan",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "faul",
+    "tr": "tembel",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "höflich",
+    "tr": "nazik/kibar",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "unhöflich",
+    "tr": "kaba",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "ehrlich",
+    "tr": "dürüst",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "pünktlich",
+    "tr": "dakik",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "zuverlässig",
+    "tr": "güvenilir",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "geduldig",
+    "tr": "sabırlı",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "ungeduldig",
+    "tr": "sabırsız",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "selbstbewusst",
+    "tr": "kendinden emin",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "kreativ",
+    "tr": "yaratıcı",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "romantisch",
+    "tr": "romantik",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "sportlich",
+    "tr": "sporcu/sportif",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "reich",
+    "tr": "zengin",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "arm",
+    "tr": "fakir",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "teuer",
+    "tr": "pahalı",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "billig",
+    "tr": "ucuz",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "kostenlos",
+    "tr": "ücretsiz",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "wichtig",
+    "tr": "önemli",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "unwichtig",
+    "tr": "önemsiz",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "nützlich",
+    "tr": "faydalı",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "nutzlos",
+    "tr": "faydasız",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "notwendig",
+    "tr": "gerekli",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "fertig",
+    "tr": "hazır/bitmiş",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "bereit",
+    "tr": "hazır",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "frei",
+    "tr": "serbest/özgür",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "besetzt",
+    "tr": "meşgul/dolu",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "möglich",
+    "tr": "mümkün",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "unmöglich",
+    "tr": "imkânsız",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "sicher",
+    "tr": "güvenli/emin",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "gefährlich",
+    "tr": "tehlikeli",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "bekannt",
+    "tr": "tanınmış/bilinen",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "berühmt",
+    "tr": "ünlü",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "beliebt",
+    "tr": "popüler/sevilen",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "modern",
+    "tr": "modern",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "typisch",
+    "tr": "tipik",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "normal",
+    "tr": "normal",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "besonders",
+    "tr": "özel",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "gleich",
+    "tr": "aynı/eşit",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "ähnlich",
+    "tr": "benzer",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "anders",
+    "tr": "farklı",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "verschieden",
+    "tr": "çeşitli/farklı",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "allgemein",
+    "tr": "genel",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "rot",
+    "tr": "kırmızı",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "blau",
+    "tr": "mavi",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "grün",
+    "tr": "yeşil",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "gelb",
+    "tr": "sarı",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "orange",
+    "tr": "turuncu",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "lila",
+    "tr": "mor",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "rosa",
+    "tr": "pembe",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "braun",
+    "tr": "kahverengi",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "schwarz",
+    "tr": "siyah",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "weiß",
+    "tr": "beyaz",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "grau",
+    "tr": "gri",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "bunt",
+    "tr": "renkli/çok renkli",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "golden",
+    "tr": "altın renkli",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "silbern",
+    "tr": "gümüş renkli",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "beige",
+    "tr": "bej",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "lecker",
+    "tr": "nefis/lezzetli",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "ekelig",
+    "tr": "iğrenç",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "süß",
+    "tr": "tatlı",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "sauer",
+    "tr": "ekşi",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "salzig",
+    "tr": "tuzlu",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "bitter",
+    "tr": "acı (tat)",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "scharf",
+    "tr": "acı (baharat)",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "mild",
+    "tr": "hafif (tat)",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "frisch",
+    "tr": "taze",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "knusprig",
+    "tr": "çıtır",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "rund",
+    "tr": "yuvarlak",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "eckig",
+    "tr": "köşeli",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "flach",
+    "tr": "düz/yassı",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "tief",
+    "tr": "derin",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "eng",
+    "tr": "dar",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "weit",
+    "tr": "geniş/uzak",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "nah",
+    "tr": "yakın",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "fern",
+    "tr": "uzak",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "gerade",
+    "tr": "düz/doğru",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "schief",
+    "tr": "eğri/yamuk",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "spitz",
+    "tr": "sivri",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "stumpf",
+    "tr": "küt/donuk",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "glatt",
+    "tr": "düzgün/pürüzsüz",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "rau",
+    "tr": "pürüzlü/kaba",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "flüssig",
+    "tr": "sıvı",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "fest",
+    "tr": "katı/sağlam",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "riesig",
+    "tr": "devasa/çok büyük",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "winzig",
+    "tr": "minicik/çok küçük",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "schwanger",
+    "tr": "hamile",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "verheiratet",
+    "tr": "evli",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "ledig",
+    "tr": "bekar",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "praktisch",
+    "tr": "pratik",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "bequem",
+    "tr": "rahat (koltuk vb.)",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "unbequem",
+    "tr": "rahatsız",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "gemütlich",
+    "tr": "rahat/sıcak (ortam)",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "ordentlich",
+    "tr": "düzenli",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "unordentlich",
+    "tr": "dağınık",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "sorgfältig",
+    "tr": "özenli",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "nachlässig",
+    "tr": "özensiz",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "genau",
+    "tr": "tam/kesin",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "ungenau",
+    "tr": "belirsiz",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "toll",
+    "tr": "harika",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "super",
+    "tr": "süper/mükemmel",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "wunderbar",
+    "tr": "muhteşem",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "furchtbar",
+    "tr": "korkunç/berbat",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "schrecklich",
+    "tr": "korkunç/dehşetli",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "herrlich",
+    "tr": "harika/muhteşem",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "prima",
+    "tr": "birinci sınıf/harika",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "perfekt",
+    "tr": "mükemmel",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "ideal",
+    "tr": "ideal",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "klar",
+    "tr": "açık/net",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "direkt",
+    "tr": "doğrudan",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "persönlich",
+    "tr": "kişisel",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "öffentlich",
+    "tr": "halka açık",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "privat",
+    "tr": "özel",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "natürlich",
+    "tr": "doğal",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "künstlich",
+    "tr": "yapay",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "international",
+    "tr": "uluslararası",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "national",
+    "tr": "ulusal",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "lokal",
+    "tr": "yerel",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "aktuell",
+    "tr": "güncel/şu anki",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "allein",
+    "tr": "yalnız/tek başına",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "gemeinsam",
+    "tr": "birlikte",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "ganz",
+    "tr": "tüm/bütün",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "halb",
+    "tr": "yarım",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "fit",
+    "tr": "formda",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "aktiv",
+    "tr": "aktif",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "passiv",
+    "tr": "pasif",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "positiv",
+    "tr": "olumlu",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "negativ",
+    "tr": "olumsuz",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "formell",
+    "tr": "resmi",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "informell",
+    "tr": "resmi olmayan",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "real",
+    "tr": "gerçek",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "digital",
+    "tr": "dijital",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "technisch",
+    "tr": "teknik",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "sozial",
+    "tr": "sosyal",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "erwachsen",
+    "tr": "yetişkin",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "täglich",
+    "tr": "günlük",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "wöchentlich",
+    "tr": "haftalık",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "monatlich",
+    "tr": "aylık",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "jährlich",
+    "tr": "yıllık",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "fröhlich",
+    "tr": "neşeli/sevinçli",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "vorsichtig",
+    "tr": "dikkatli/ihtiyatlı",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "aufmerksam",
+    "tr": "dikkatli/dikkat eden",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "interessiert",
+    "tr": "ilgili/meraklı",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "wach",
+    "tr": "uyanık",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "schlapp",
+    "tr": "halsiz/bitkin",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "energisch",
+    "tr": "enerjik",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "kühl",
+    "tr": "serin",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "feucht",
+    "tr": "nemli/ıslak",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "windig",
+    "tr": "rüzgarlı",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "sonnig",
+    "tr": "güneşli",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "regnerisch",
+    "tr": "yağmurlu",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "bewölkt",
+    "tr": "bulutlu",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "neblig",
+    "tr": "sisli",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "stürmisch",
+    "tr": "fırtınalı",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "angenehm",
+    "tr": "hoş/keyifli",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "unangenehm",
+    "tr": "nahoş/rahatsız edici",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "heute",
+    "tr": "bugün",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "gestern",
+    "tr": "dün",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "morgen",
+    "tr": "yarın",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "jetzt",
+    "tr": "şimdi",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "dann",
+    "tr": "sonra/o zaman",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "danach",
+    "tr": "ondan sonra",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "vorher",
+    "tr": "önce/daha önce",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "später",
+    "tr": "daha sonra",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "früher",
+    "tr": "eskiden/daha önce",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "bald",
+    "tr": "yakında",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "sofort",
+    "tr": "hemen",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "gleich",
+    "tr": "hemen/birazdan",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "noch",
+    "tr": "henüz/hâlâ",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "schon",
+    "tr": "zaten/çoktan",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "erst",
+    "tr": "sadece/ancak",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "immer",
+    "tr": "her zaman",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "nie",
+    "tr": "hiçbir zaman",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "niemals",
+    "tr": "asla",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "manchmal",
+    "tr": "bazen",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "oft",
+    "tr": "sık sık",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "selten",
+    "tr": "nadiren",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "meistens",
+    "tr": "çoğunlukla",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "normalerweise",
+    "tr": "normalde",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "früh",
+    "tr": "erken",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "spät",
+    "tr": "geç",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "täglich",
+    "tr": "her gün",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "wöchentlich",
+    "tr": "her hafta",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "monatlich",
+    "tr": "her ay",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "abends",
+    "tr": "akşamları",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "morgens",
+    "tr": "sabahları",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "hier",
+    "tr": "burada",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "dort",
+    "tr": "orada",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "da",
+    "tr": "orada/şurada",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "oben",
+    "tr": "yukarıda",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "unten",
+    "tr": "aşağıda",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "links",
+    "tr": "solda/sola",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "rechts",
+    "tr": "sağda/sağa",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "vorne",
+    "tr": "önde/önde",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "hinten",
+    "tr": "arkada",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "innen",
+    "tr": "içeride",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "außen",
+    "tr": "dışarıda",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "überall",
+    "tr": "her yerde",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "nirgends",
+    "tr": "hiçbir yerde",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "irgendwo",
+    "tr": "bir yerde",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "weg",
+    "tr": "gitti/uzakta",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "nah",
+    "tr": "yakın",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "weit",
+    "tr": "uzak",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "drinnen",
+    "tr": "içeride",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "draußen",
+    "tr": "dışarıda",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "nebenan",
+    "tr": "yanı başında",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "sehr",
+    "tr": "çok",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "viel",
+    "tr": "çok",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "wenig",
+    "tr": "az",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "ein bisschen",
+    "tr": "biraz",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "etwas",
+    "tr": "biraz/bir şey",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "ganz",
+    "tr": "tamamen/oldukça",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "total",
+    "tr": "tamamen",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "zu",
+    "tr": "çok (fazla)",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "so",
+    "tr": "bu kadar/öyle",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "fast",
+    "tr": "neredeyse",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "kaum",
+    "tr": "zar zor/neredeyse hiç",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "genug",
+    "tr": "yeterince",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "mehr",
+    "tr": "daha fazla",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "weniger",
+    "tr": "daha az",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "am meisten",
+    "tr": "en çok",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "am wenigsten",
+    "tr": "en az",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "besonders",
+    "tr": "özellikle",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "wirklich",
+    "tr": "gerçekten",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "ziemlich",
+    "tr": "oldukça",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "recht",
+    "tr": "oldukça/oldukça",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "eher",
+    "tr": "daha çok/daha ziyade",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "gern",
+    "tr": "memnuniyetle/isteyerek",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "gerne",
+    "tr": "severek/memnuniyetle",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "lieber",
+    "tr": "daha çok tercih ederek",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "am liebsten",
+    "tr": "en çok sevdim",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "zusammen",
+    "tr": "birlikte",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "allein",
+    "tr": "yalnız/tek başına",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "gemeinsam",
+    "tr": "birlikte/ortak",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "leider",
+    "tr": "maalesef",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "leider nicht",
+    "tr": "maalesef değil",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "natürlich",
+    "tr": "tabii ki/doğal olarak",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "sicher",
+    "tr": "kesinlikle/elbette",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "bestimmt",
+    "tr": "kesinlikle",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "vielleicht",
+    "tr": "belki",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "wahrscheinlich",
+    "tr": "muhtemelen",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "hoffentlich",
+    "tr": "umarım",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "wenigstens",
+    "tr": "en azından",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "zumindest",
+    "tr": "en azından",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "zum Beispiel",
+    "tr": "örneğin",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "zum Glück",
+    "tr": "neyse ki",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "also",
+    "tr": "yani/öyleyse",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "trotzdem",
+    "tr": "yine de",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "dennoch",
+    "tr": "buna rağmen",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "deshalb",
+    "tr": "bu yüzden",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "deswegen",
+    "tr": "bu nedenle",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "darum",
+    "tr": "bu yüzden",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "doch",
+    "tr": "yine de/ama",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "ja",
+    "tr": "evet",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "nein",
+    "tr": "hayır",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "nicht",
+    "tr": "değil",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "kein",
+    "tr": "hiç/hiçbir",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "auch",
+    "tr": "de/da/ayrıca",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "nur",
+    "tr": "sadece",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "immer noch",
+    "tr": "hâlâ",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "nicht mehr",
+    "tr": "artık değil",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "bereits",
+    "tr": "zaten/çoktan",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "endlich",
+    "tr": "sonunda",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "plötzlich",
+    "tr": "aniden",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "ungefähr",
+    "tr": "yaklaşık olarak",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "genau",
+    "tr": "tam olarak",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "ehrlich gesagt",
+    "tr": "dürüst olmak gerekirse",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "auf jeden Fall",
+    "tr": "her halükarda",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "meiner Meinung nach",
+    "tr": "bence/kanımca",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "zum ersten Mal",
+    "tr": "ilk kez",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "wieder",
+    "tr": "yeniden/tekrar",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "nochmal",
+    "tr": "bir daha/tekrar",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "zuerst",
+    "tr": "önce/ilk önce",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "zuletzt",
+    "tr": "en son olarak",
+    "level": "A1",
+    "type": "adverb"
+  },
+  {
+    "de": "ich",
+    "tr": "ben",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "du",
+    "tr": "sen",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "er",
+    "tr": "o (erkek)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "sie",
+    "tr": "o (kadın)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "es",
+    "tr": "o (eşyansız)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "wir",
+    "tr": "biz",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "ihr",
+    "tr": "siz (çoğul/yakın)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "sie",
+    "tr": "onlar",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "Sie",
+    "tr": "siz (saygı)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "mich",
+    "tr": "beni",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "dich",
+    "tr": "seni",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "ihn",
+    "tr": "onu (erkek)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "sie",
+    "tr": "onu (kadın)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "es",
+    "tr": "onu (eşyansız)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "uns",
+    "tr": "bizi",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "euch",
+    "tr": "sizi",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "sie",
+    "tr": "onları",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "Sie",
+    "tr": "sizi (saygı)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "mir",
+    "tr": "bana",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "dir",
+    "tr": "sana",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "ihm",
+    "tr": "ona (erkek)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "ihr",
+    "tr": "ona (kadın)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "ihm",
+    "tr": "ona (eşyansız)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "uns",
+    "tr": "bize",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "euch",
+    "tr": "size",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "ihnen",
+    "tr": "onlara",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "Ihnen",
+    "tr": "size (saygı)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "mein",
+    "tr": "benim (erkil)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "meine",
+    "tr": "benim (dişil/çoğul)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "mein",
+    "tr": "benim (eşyansız)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "dein",
+    "tr": "senin (erkil)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "deine",
+    "tr": "senin (dişil/çoğul)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "sein",
+    "tr": "onun (erkek - erkil)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "seine",
+    "tr": "onun (erkek - dişil)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "ihr",
+    "tr": "onun (kadın - erkil)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "ihre",
+    "tr": "onun (kadın - dişil)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "unser",
+    "tr": "bizim (erkil)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "unsere",
+    "tr": "bizim (dişil/çoğul)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "euer",
+    "tr": "sizin (erkil)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "eure",
+    "tr": "sizin (dişil/çoğul)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "ihr",
+    "tr": "onların (erkil)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "ihre",
+    "tr": "onların (dişil/çoğul)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "Ihr",
+    "tr": "sizin (saygı - erkil)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "Ihre",
+    "tr": "sizin (saygı - dişil)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "meinen",
+    "tr": "benim (belirtme - erkil)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "meinem",
+    "tr": "benim (yönelme - erkil)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "meiner",
+    "tr": "benim (yönelme - dişil)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "deinen",
+    "tr": "senin (belirtme - erkil)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "deinem",
+    "tr": "senin (yönelme - erkil)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "deiner",
+    "tr": "senin (yönelme - dişil)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "seinen",
+    "tr": "onun/erkek (belirtme)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "ihren",
+    "tr": "onun/kadın (belirtme)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "unseren",
+    "tr": "bizim (belirtme)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "dieser",
+    "tr": "bu (erkil)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "diese",
+    "tr": "bu (dişil/çoğul)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "dieses",
+    "tr": "bu (eşyansız)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "diesen",
+    "tr": "bu (belirtme - erkil)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "diesem",
+    "tr": "bu (yönelme - erkil/eşyansız)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "dieser",
+    "tr": "bu (yönelme - dişil)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "jener",
+    "tr": "şu/o (erkil)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "jene",
+    "tr": "şu/o (dişil/çoğul)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "jenes",
+    "tr": "şu/o (eşyansız)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "der",
+    "tr": "o (işaret - erkil)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "die",
+    "tr": "o (işaret - dişil/çoğul)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "das",
+    "tr": "o (işaret - eşyansız)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "das hier",
+    "tr": "bu burada",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "das dort",
+    "tr": "o orada",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "solcher",
+    "tr": "böyle (erkil)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "solche",
+    "tr": "böyle (dişil/çoğul)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "solches",
+    "tr": "böyle (eşyansız)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "wer",
+    "tr": "kim",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "wen",
+    "tr": "kimi",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "wem",
+    "tr": "kime",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "wessen",
+    "tr": "kimin",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "was",
+    "tr": "ne",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "welcher",
+    "tr": "hangi (erkil)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "welche",
+    "tr": "hangi (dişil/çoğul)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "welches",
+    "tr": "hangi (eşyansız)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "welchen",
+    "tr": "hangisini (erkil)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "welchem",
+    "tr": "hangisine (erkil)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "wie viel",
+    "tr": "ne kadar",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "wie viele",
+    "tr": "kaç tane",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "man",
+    "tr": "insan/biri (genel)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "jemand",
+    "tr": "biri/birisi",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "niemand",
+    "tr": "hiç kimse",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "etwas",
+    "tr": "bir şey",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "nichts",
+    "tr": "hiçbir şey",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "alle",
+    "tr": "herkes/hepsi",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "alles",
+    "tr": "her şey",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "jeder",
+    "tr": "her/herkes (erkil)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "jede",
+    "tr": "her/herkes (dişil)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "jedes",
+    "tr": "her (eşyansız)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "beide",
+    "tr": "her ikisi/ikisi de",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "einige",
+    "tr": "bazıları/birkaçı",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "viele",
+    "tr": "birçoğu/pek çok",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "wenige",
+    "tr": "azı/çok az",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "manche",
+    "tr": "kimileri/bazı",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "andere",
+    "tr": "diğerleri/başkaları",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "ein anderer",
+    "tr": "başka biri (erkil)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "eine andere",
+    "tr": "başka biri (dişil)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "ein anderes",
+    "tr": "başka (eşyansız)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "irgendwer",
+    "tr": "kim olursa olsun/biri",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "irgendwas",
+    "tr": "ne olursa olsun/bir şey",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "irgendjemand",
+    "tr": "herhangi biri",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "irgendetwas",
+    "tr": "herhangi bir şey",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "mich",
+    "tr": "kendimi",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "dich",
+    "tr": "kendini (sen)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "sich",
+    "tr": "kendini/kendilerini",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "uns",
+    "tr": "kendimizi",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "euch",
+    "tr": "kendinizi",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "mir",
+    "tr": "kendime",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "dir",
+    "tr": "kendine",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "der",
+    "tr": "ki o (erkil)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "die",
+    "tr": "ki o (dişil/çoğul)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "das",
+    "tr": "ki o (eşyansız)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "den",
+    "tr": "ki onu (erkil)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "dem",
+    "tr": "ki ona (erkil/eşyansız)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "dessen",
+    "tr": "ki onun (erkil)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "deren",
+    "tr": "ki onun (dişil)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "denen",
+    "tr": "ki onlara (çoğul)",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "was",
+    "tr": "ki o / ne",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "wo",
+    "tr": "ki orada",
+    "level": "A1",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Land",
+    "tr": "ülke",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Familie",
+    "tr": "aile",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Musik",
+    "tr": "müzik",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Sport",
+    "tr": "spor",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "die Reise",
+    "tr": "seyahat",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "der Urlaub",
+    "tr": "tatil",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "das Frühstück",
+    "tr": "kahvaltı",
+    "level": "A1",
+    "type": "noun"
+  },
+  {
+    "de": "interessiert",
+    "tr": "ilgili/meraklı",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "beschäftigt",
+    "tr": "meşgul",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "zufrieden",
+    "tr": "memnun/tatminkâr",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "verliebt",
+    "tr": "aşık",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "allgemein",
+    "tr": "genel",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "möglich",
+    "tr": "mümkün/olası",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "fröhlich",
+    "tr": "neşeli/sevinçli",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "erwachsen",
+    "tr": "yetişkin",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "schwierig",
+    "tr": "güç/zor",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "notwendig",
+    "tr": "zorunlu/gerekli",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "kühl",
+    "tr": "serin",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "feucht",
+    "tr": "nemli",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "sonnig",
+    "tr": "güneşli",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "regnerisch",
+    "tr": "yağmurlu",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "bewölkt",
+    "tr": "bulutlu",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "neblig",
+    "tr": "sisli",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "windig",
+    "tr": "rüzgarlı",
+    "level": "A1",
+    "type": "adjective"
+  },
+  {
+    "de": "angenehm",
+    "tr": "hoş/keyifli",
+    "level": "A1",
+    "type": "adjective"
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "almanca-kelime-testi",
+          "appId": "1:1085859372921:android:6901c0882d9ec09abb99a8",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "almanca-kelime-testi",
+          "appId": "1:1085859372921:ios:dfd83c50d4ca8395bb99a8",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "almanca-kelime-testi",
+          "configurations": {
+            "android": "1:1085859372921:android:6901c0882d9ec09abb99a8",
+            "ios": "1:1085859372921:ios:dfd83c50d4ca8395bb99a8"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "disallowLegacyRuntimeConfig": true,
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ],
+      "predeploy": []
+    }
+  ]
+}

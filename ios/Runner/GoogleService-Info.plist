@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CLIENT_ID</key>
+    <string>1085859372921-vj8u6qamkuvq0b51p5p5c368bs68duh9m56.apps.googleusercontent.com</string>
+    <key>REVERSED_CLIENT_ID</key>
+    <string>com.googleusercontent.apps.1085859372921-vj8u6qamkuvq0b51p5p5c368bs68duh9m56</string>
+    <key>ANDROID_CLIENT_ID</key>
+    <string>1085859372921-auc1ij9p9gjljjk6hj0oiooibudgvb6r.apps.googleusercontent.com</string>
+    <key>API_KEY</key>
+    <string>AIzaSyBiYzv_0O94Nedo5M2FCj2snilxHQwYABE</string>
+    <key>GCM_SENDER_ID</key>
+    <string>1085859372921</string>
+    <key>PLIST_VERSION</key>
+    <string>1</string>
+    <key>BUNDLE_ID</key>
+    <string>com.almanca.almancaKelimeTesti</string>
+    <key>PROJECT_ID</key>
+    <string>almanca-kelime-testi</string>
+    <key>STORAGE_BUCKET</key>
+    <string>almanca-kelime-testi.firebasestorage.app</string>
+    <key>IS_ADS_ENABLED</key>
+    <false></false>
+    <key>IS_ANALYTICS_ENABLED</key>
+    <false></false>
+    <key>IS_APPINVITE_ENABLED</key>
+    <true></true>
+    <key>IS_GCM_ENABLED</key>
+    <true></true>
+    <key>IS_SIGNIN_ENABLED</key>
+    <true></true>
+    <key>GOOGLE_APP_ID</key>
+    <string>1:1085859372921:ios:dfd83c50d4ca8395bb99a8</string>
+</dict>
+</plist>

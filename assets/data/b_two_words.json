@@ -1,0 +1,4274 @@
+[
+  {
+    "de": "die Abhandlung",
+    "tr": "inceleme/risale/tez",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Auseinandersetzung",
+    "tr": "tartışma/yüzleşme/analiz",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Erörterung",
+    "tr": "tartışma/ele alış",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Abgrenzung",
+    "tr": "sınır koyma/ayırt etme",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Differenzierung",
+    "tr": "farklılaştırma/nüans",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Kategorisierung",
+    "tr": "kategorilendirme/sınıflandırma",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Klassifizierung",
+    "tr": "sınıflandırma",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Systematisierung",
+    "tr": "sistematize etme",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Konzeptualisierung",
+    "tr": "kavramsallaştırma",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Operationalisierung",
+    "tr": "işlevselleştirme",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "das Paradigma",
+    "tr": "paradigma/örnek model",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "der Diskurs",
+    "tr": "söylem/tartışma",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Epistemologie",
+    "tr": "bilgi felsefesi/epistemoloji",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Ontologie",
+    "tr": "varlık bilimi/ontoloji",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Hermeneutik",
+    "tr": "yorum bilimi/hermenötik",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Dialektik",
+    "tr": "diyalektik",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Rhetorik",
+    "tr": "retorik/söz sanatı",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Semiotik",
+    "tr": "göstergebilim/semiyotik",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Erkenntnistheorie",
+    "tr": "bilgi teorisi",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Methodologie",
+    "tr": "metodoloji/yöntem bilimi",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Rechtsprechung",
+    "tr": "yargı/hukuki içtihat",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Gesetzgebung",
+    "tr": "yasama/mevzuat",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Strafverfolgung",
+    "tr": "cezai kovuşturma",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Strafmilderung",
+    "tr": "ceza indirimi",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Freiheitsstrafe",
+    "tr": "hapis cezası",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Bewährung",
+    "tr": "denetimli serbestlik/şartlı tahliye",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Klage",
+    "tr": "dava/şikâyet",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "der Beklagte",
+    "tr": "sanık/davalı",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "der Kläger",
+    "tr": "davacı",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "der Zeuge",
+    "tr": "tanık/şahit",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "das Urteil",
+    "tr": "karar/hüküm",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "das Verfahren",
+    "tr": "dava süreci/yöntem",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Berufung",
+    "tr": "temyiz/itiraz",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Revision",
+    "tr": "bozma/revizyon",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Amnestie",
+    "tr": "af/genel af",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Verfassungswidrigkeit",
+    "tr": "anayasaya aykırılık",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "das Grundrecht",
+    "tr": "temel hak",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Rechtsstaatlichkeit",
+    "tr": "hukukun üstünlüğü",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Gewaltenteilung",
+    "tr": "kuvvetler ayrılığı",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Souveränität",
+    "tr": "egemenlik",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "das Dilemma",
+    "tr": "ikilem/çıkmaz",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "das Paradoxon",
+    "tr": "paradoks/çelişki",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Ambiguität",
+    "tr": "belirsizlik/çok anlamlılık",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Ambivalenz",
+    "tr": "kararsızlık/çift değerlilik",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "das Postulat",
+    "tr": "postülat/varsayım",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "das Axiom",
+    "tr": "aksiyom/öncül",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Prämisse",
+    "tr": "öncül/temel varsayım",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "der Syllogismus",
+    "tr": "kıyas/mantıksal çıkarım",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Deduktion",
+    "tr": "tümden gelim",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Induktion",
+    "tr": "tüme varım",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Analogie",
+    "tr": "analoji/benzetim",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Metapher",
+    "tr": "metafor/eğretileme",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "das Konzept",
+    "tr": "kavram/konsept",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Abstraktion",
+    "tr": "soyutlama",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Kontemplation",
+    "tr": "derin düşünce/tefekkür",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Reflexion",
+    "tr": "yansıma/düşünme/öz değerlendirme",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Introspektion",
+    "tr": "iç gözlem/öz sorgulama",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Selbstreflexion",
+    "tr": "öz-değerlendirme/öz düşünce",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Weltanschauung",
+    "tr": "dünya görüşü/ideoloji",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "das Lebensgefühl",
+    "tr": "hayata bakış/yaşam hissi",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Liquidität",
+    "tr": "likidite/nakit akışı",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Solvenz",
+    "tr": "ödeme gücü",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Insolvenz",
+    "tr": "iflas/ödeme aczi",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "der Konkurs",
+    "tr": "iflâs",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Rendite",
+    "tr": "getiri/verim",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "der Zinssatz",
+    "tr": "faiz oranı",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Risikostreuung",
+    "tr": "risk dağılımı",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "das Portfolio",
+    "tr": "portföy",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Diversifizierung",
+    "tr": "çeşitlendirme",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Wertschöpfung",
+    "tr": "değer yaratma/katma değer",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Produktivität",
+    "tr": "verimlilik",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Effizienz",
+    "tr": "verimlilik/etkinlik",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Ineffizienz",
+    "tr": "verimsizlik",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "das Monopol",
+    "tr": "tekel",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "das Oligopol",
+    "tr": "oligopol",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "das Kartell",
+    "tr": "kartel",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Fusion",
+    "tr": "birleşme/füzyon",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Übernahme",
+    "tr": "devralma/satın alma",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Privatisierung",
+    "tr": "özelleştirme",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Verstaatlichung",
+    "tr": "devletleştirme/kamulaştırma",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Quantenmechanik",
+    "tr": "kuantum mekaniği",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Relativitätstheorie",
+    "tr": "görelilik teorisi",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "das Neuron",
+    "tr": "nöron/sinir hücresi",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Neuroplastizität",
+    "tr": "nöroplastisite",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Kognition",
+    "tr": "biliş/bilişsel süreç",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "das Bewusstsein",
+    "tr": "bilinç",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Wahrnehmung",
+    "tr": "algı/idrak",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Kognitionswissenschaft",
+    "tr": "bilişsel bilim",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Biotechnologie",
+    "tr": "biyoteknoloji",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Nanotechnologie",
+    "tr": "nanoteknoloji",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Künstliche Intelligenz",
+    "tr": "yapay zeka",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "der Algorithmus",
+    "tr": "algoritma",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Maschinelles Lernen",
+    "tr": "makine öğrenmesi",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Datenwissenschaft",
+    "tr": "veri bilimi",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Cybersicherheit",
+    "tr": "siber güvenlik",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Verschlüsselung",
+    "tr": "şifreleme",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "der Quantencomputer",
+    "tr": "kuantum bilgisayar",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Automatisierung",
+    "tr": "otomasyon",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Robotik",
+    "tr": "robotik",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Digitalisierung",
+    "tr": "dijitalleşme",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Soziologie",
+    "tr": "sosyoloji",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Anthropologie",
+    "tr": "antropoloji",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Demographie",
+    "tr": "demografi",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Bevölkerungsdichte",
+    "tr": "nüfus yoğunluğu",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Urbanisierung",
+    "tr": "kentleşme",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Suburbanisierung",
+    "tr": "banliyöleşme",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Segregation",
+    "tr": "ayrışma/segregasyon",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Gentrification",
+    "tr": "soylaştırma/gentrifikasyon",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die soziale Schicht",
+    "tr": "sosyal sınıf/katman",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Klassengesellschaft",
+    "tr": "sınıflı toplum",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Meritokratie",
+    "tr": "meritokrasi/liyakat yönetimi",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Plutokratie",
+    "tr": "plütokrasi/servet yönetimi",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Bürokratie",
+    "tr": "bürokrasi",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "der Wohlfahrtsstaat",
+    "tr": "refah devleti",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Zivilgesellschaft",
+    "tr": "sivil toplum",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "das Ehrenamt",
+    "tr": "gönüllülük/kamu hizmeti",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Partizipation",
+    "tr": "katılım/participasyon",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Inklusion",
+    "tr": "kapsayıcılık/dahil etme",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Exklusion",
+    "tr": "dışlanma/dışlama",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Marginalisierung",
+    "tr": "marjinalleştirme",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die kognitive Dissonanz",
+    "tr": "bilişsel çelişki",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "der Bestätigungsfehler",
+    "tr": "doğrulama önyargısı",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "der Halo-Effekt",
+    "tr": "hale etkisi",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Projektion",
+    "tr": "yansıtma/projeksiyon",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Rationalisierung",
+    "tr": "akılsallaştırma/gerekçelendirme",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Verdrängung",
+    "tr": "bastırma/inkâr",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Sublimation",
+    "tr": "yüceltme/sublimason",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Kompensation",
+    "tr": "telafi/kompensasyon",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "der Narzissmus",
+    "tr": "narsisizm",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "der Masochismus",
+    "tr": "mazoşizm",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Phobie",
+    "tr": "fobi/korku bozukluğu",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "der Zwang",
+    "tr": "zorunluluk/kompülsiyon",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Obsession",
+    "tr": "takıntı/obsesyon",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Persönlichkeitsstörung",
+    "tr": "kişilik bozukluğu",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Schizophrenie",
+    "tr": "şizofreni",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die bipolare Störung",
+    "tr": "bipolar bozukluk",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Psychoanalyse",
+    "tr": "psikanaliz",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Verhaltenstherapie",
+    "tr": "davranışsal terapi",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die kognitive Verhaltenstherapie",
+    "tr": "bilişsel davranışçı terapi",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Achtsamkeit",
+    "tr": "farkındalık/mindfulness",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Linguistik",
+    "tr": "dilbilim",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Pragmatik",
+    "tr": "edimbilim/pragmatik",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Syntax",
+    "tr": "sözdizim/sentaks",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Morphologie",
+    "tr": "biçimbilim/morfoloji",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Phonologie",
+    "tr": "sesbilim/fonoloji",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Semantik",
+    "tr": "anlambilim/semantik",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Etymologie",
+    "tr": "köken bilimi/etimoloji",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "das Lexikon",
+    "tr": "leksikon/sözlük",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Ironie",
+    "tr": "ironi/alay",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Satire",
+    "tr": "hiciv/satir",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "der Sarkasmus",
+    "tr": "sarkasam",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Allegorie",
+    "tr": "alegori/simge anlatım",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Parabel",
+    "tr": "parabola/mesel/ibret hikâyesi",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "das Narrativ",
+    "tr": "anlatı/söylem",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Intertextualität",
+    "tr": "metinlerarasılık",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "das Subtext",
+    "tr": "alt metin/ima edilen anlam",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "der Euphemismus",
+    "tr": "örtmece/yumuşatma ifadesi",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "der Zynismus",
+    "tr": "sinizm/karamsar alaycılık",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Polemik",
+    "tr": "polemik/sert eleştiri",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Ästhetik",
+    "tr": "estetik",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "das Avantgarde",
+    "tr": "avangard",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "der Impressionismus",
+    "tr": "izlenimcilik",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "der Expressionismus",
+    "tr": "dışavurumculuk",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "der Surrealismus",
+    "tr": "gerçeküstücülük",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "der Dadaismus",
+    "tr": "dadaizm",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "der Kubismus",
+    "tr": "kübizm",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Postmoderne",
+    "tr": "postmodernizm",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Dekonstruktion",
+    "tr": "yapısöküm/dekonstruksiyon",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Installation",
+    "tr": "enstalasyon/yerleştirme",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "der ökologische Fußabdruck",
+    "tr": "ekolojik ayak izi",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Kohlendioxidneutralität",
+    "tr": "karbondioksit nötralitesi",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Dekarbonisierung",
+    "tr": "karbonsuzlaştırma",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Kreislaufwirtschaft",
+    "tr": "döngüsel ekonomi",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Netto-Null-Emission",
+    "tr": "net sıfır emisyon",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Bioökonomie",
+    "tr": "biyoekonomı",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Energiewende",
+    "tr": "enerji dönüşümü",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Agrarwende",
+    "tr": "tarım dönüşümü",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "das Greenwashing",
+    "tr": "yeşil badana/sahte çevreci davranış",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Biodiversitätskrise",
+    "tr": "biyoçeşitlilik krizi",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Komplexität",
+    "tr": "karmaşıklık",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Kontroverse",
+    "tr": "tartışma/ihtilaf",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Legitimität",
+    "tr": "meşruiyet",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Plausibilität",
+    "tr": "makullük/inanılırlık",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Kohärenz",
+    "tr": "tutarlılık/bütünlük",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Inkohärenz",
+    "tr": "tutarsızlık",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Interdependenz",
+    "tr": "karşılıklı bağımlılık",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Synergien",
+    "tr": "sinerjiler",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Konvergenz",
+    "tr": "yakınsama/buluşma",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Divergenz",
+    "tr": "ayrışma/uzaklaşma",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Komplementarität",
+    "tr": "tamamlayıcılık",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Redundanz",
+    "tr": "fazlalık/yedeklilik",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Implikation",
+    "tr": "çıkarım/ima/dolaylı anlam",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Nuance",
+    "tr": "nüans/ince ayrım",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "der Subtext",
+    "tr": "alt metin/örtük anlam",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Quintessenz",
+    "tr": "özet/öz/çıkarılan ders",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "der Konsens",
+    "tr": "konsensüs/uzlaşı",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "der Dissens",
+    "tr": "anlaşmazlık/fikir ayrılığı",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Reziprozität",
+    "tr": "karşılıklılık",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "epistemisch",
+    "tr": "epistemik/bilgisel",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "ontologisch",
+    "tr": "ontolojik/varlıksal",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "heuristisch",
+    "tr": "buluşsal/sezgisel (yöntem)",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "axiomatisch",
+    "tr": "aksiyomatik/temel varsayımlara dayalı",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "aporetisch",
+    "tr": "çözümsüz/aporetik",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "tautologisch",
+    "tr": "totolojik/gereksiz tekrar",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "zirkulär",
+    "tr": "döngüsel/kısır döngü",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "rekursiv",
+    "tr": "yinelemeli/özyinelemeli",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "transzendentalisch",
+    "tr": "aşkınsal/transandantal",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "immanent",
+    "tr": "içkin/içsel",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "transzendent",
+    "tr": "aşkın/transandant",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "metaphysisch",
+    "tr": "metafiziksel",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "dialektisch",
+    "tr": "diyalektik",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "deterministisch",
+    "tr": "determinist/belirlenimci",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "indeterministisch",
+    "tr": "belirlenimsiz/indeterminist",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "reduktionistisch",
+    "tr": "indirgemeci/redüksiyonist",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "holistisch",
+    "tr": "bütüncül/holistik",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "teleologisch",
+    "tr": "ereksel/teleolojik",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "deontologisch",
+    "tr": "deontolojik/ödev ahlakına dayalı",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "konsequentialistisch",
+    "tr": "sonuçsalcı/yararcı",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "konnotativ",
+    "tr": "çağrışımsal/yan anlam taşıyan",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "denotativ",
+    "tr": "düzanlamsal",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "performativ",
+    "tr": "edimsel/söz edimli",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "illokutionär",
+    "tr": "söylem amacını yansıtan",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "euphemistisch",
+    "tr": "örtmeceli/yumuşatılmış",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "dysphemistisch",
+    "tr": "aşağılayıcı ifade kullanan",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "polemisch",
+    "tr": "polemiksel/saldırgan eleştirel",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "apologetisch",
+    "tr": "savunmacı/mazeret arayan",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "rhetorisch",
+    "tr": "retorik/söylem sanatına ait",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "figurativ",
+    "tr": "mecazi/eğretilemeli",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "literal",
+    "tr": "sözcüğü sözcüğüne/gerçek anlamda",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "idiomatisch",
+    "tr": "deyimsel/o dile özgü",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "stilistisch",
+    "tr": "üslupla ilgili/biçemsel",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "grammatikalisch",
+    "tr": "dilbilgisel",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "syntaktisch",
+    "tr": "sözdizimsel",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "semantisch",
+    "tr": "anlamsal/semantik",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "pragmatisch",
+    "tr": "edimsel/pragmatik",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "diskursiv",
+    "tr": "söylemsel/tartışmalı",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "narrativ",
+    "tr": "anlatısal/öyküsel",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "intertextuell",
+    "tr": "metinlerarası",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "hegemonial",
+    "tr": "hegemonik/baskın",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "subversiv",
+    "tr": "yıkıcı/sisteme karşı",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "emanzipatorisch",
+    "tr": "özgürleştirici/kurtuluşa yönelik",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "patriarchal",
+    "tr": "ataerkil/patriarkal",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "matriarchal",
+    "tr": "anaerkil/matriyarkal",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "hierarchisch",
+    "tr": "hiyerarşik",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "egalitär",
+    "tr": "eşitlikçi",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "autoritär",
+    "tr": "otoriter",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "totalitär",
+    "tr": "totaliter",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "pluralistisch",
+    "tr": "çoğulcu",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "monistisch",
+    "tr": "tekçi/monist",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "föderalistisch",
+    "tr": "federalist",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "zentralistisch",
+    "tr": "merkeziyetçi",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "dezentralistisch",
+    "tr": "adem-i merkeziyetçi",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "globalistisch",
+    "tr": "küreselci",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "nationalistisch",
+    "tr": "milliyetçi",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "kosmopolitisch",
+    "tr": "kozmopolit/dünya vatandaşlığı",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "xenophob",
+    "tr": "yabancı düşmanı/zenofobi",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "xenophil",
+    "tr": "yabancı seven/yabancı kültürlere meraklı",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "interkulturell",
+    "tr": "kültürlerarası",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "narzisstisch",
+    "tr": "narsistik",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "empatisch",
+    "tr": "empatik/anlayışlı",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "introvertiert",
+    "tr": "içedönük",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "extrovertiert",
+    "tr": "dışadönük",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "ambvertiert",
+    "tr": "hem içe hem dışa dönük",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "neurotisch",
+    "tr": "nevrotik",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "psychotisch",
+    "tr": "psikotik",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "pathologisch",
+    "tr": "patolojik",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "dysfunktional",
+    "tr": "işlevsiz/sağlıksız",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "resilient",
+    "tr": "psikolojik dayanıklılığı olan",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "vulnerabel",
+    "tr": "kırılgan/hassas",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "ambivalent",
+    "tr": "çelişkili duygular içinde/kararsız",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "obsessiv",
+    "tr": "obsesif/takıntılı",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "kompulsiv",
+    "tr": "kompulsif/dürtüsel",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "impulsiv",
+    "tr": "dürtüsel/ani tepkili",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "affektgeladen",
+    "tr": "duygu yüklü",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "affektarm",
+    "tr": "duygusal ifade kısıtlı",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "lethargisch",
+    "tr": "uyuşuk/dermansız",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "apathisch",
+    "tr": "ilgisiz/hissiz/apatik",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "manisch",
+    "tr": "manik/aşırı heyecanlı",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "empirisch",
+    "tr": "deneysel/ampirik",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "theoretisch",
+    "tr": "teorik/kuramsal",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "hypothetisch",
+    "tr": "hipotetik/varsayımsal",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "spekulativ",
+    "tr": "spekülatif/varsayımsal",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "deduktiv",
+    "tr": "tümden gelimli",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "induktiv",
+    "tr": "tüme varımlı",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "abduktiv",
+    "tr": "en iyi açıklamaya giden/abdüktif",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "quantitativ",
+    "tr": "nicel/sayısal",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "qualitativ",
+    "tr": "nitel/niteliksel",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "interdisziplinär",
+    "tr": "disiplinlerarası",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "transdisziplinär",
+    "tr": "disiplin ötesi",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "multidisziplinär",
+    "tr": "çok disiplinli",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "evidenzbasiert",
+    "tr": "kanıta dayalı",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "peer-reviewed",
+    "tr": "hakemli/bilimsel denetimden geçmiş",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "replizierbar",
+    "tr": "tekrarlanabilir/çoğaltılabilir",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "valide",
+    "tr": "geçerli/doğrulanmış",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "reliabel",
+    "tr": "güvenilir/tekrarlanabilir",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "signifikant",
+    "tr": "anlamlı/istatistiksel olarak önemli",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "repräsentativ",
+    "tr": "temsil edici",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "generalisierbar",
+    "tr": "genellenebilir",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "volatil",
+    "tr": "oynak/volatil",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "konjunkturell",
+    "tr": "konjonktürel/ekonomik döngüye bağlı",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "strukturell",
+    "tr": "yapısal/köklü",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "zyklisch",
+    "tr": "döngüsel/siklüsle ilgili",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "antizyklisch",
+    "tr": "döngü karşıtı",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "deflationär",
+    "tr": "deflasyonist",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "inflationär",
+    "tr": "enflasyonist",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "liquide",
+    "tr": "likit/nakde çevrilebilir",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "illiquide",
+    "tr": "likit olmayan",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "solvent",
+    "tr": "ödeme gücü olan",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "insolvent",
+    "tr": "ödeme aczi içinde",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "diversifiziert",
+    "tr": "çeşitlendirilmiş",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "konzentriert",
+    "tr": "yoğunlaşmış/konsantre",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "wettbewerbsfähig",
+    "tr": "rekabetçi/rekabet edebilir",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "wettbewerbswidrig",
+    "tr": "rekabete aykırı",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "marktbeherrschend",
+    "tr": "piyasa hâkim",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "monopolistisch",
+    "tr": "monopolistik/tekele dayalı",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "oligopolistisch",
+    "tr": "oligopolistik",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "nachhaltig wirtschaftend",
+    "tr": "sürdürülebilir ekonomik faaliyette",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "rechtmäßig",
+    "tr": "yasal/hukuken geçerli",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "rechtswidrig",
+    "tr": "yasadışı/hukuka aykırı",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "verfassungskonform",
+    "tr": "anayasaya uygun",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "verfassungswidrig",
+    "tr": "anayasaya aykırı",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "legitim",
+    "tr": "meşru",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "illegitim",
+    "tr": "meşru olmayan",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "strafbar",
+    "tr": "suç teşkil eden/cezalandırılabilir",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "straflos",
+    "tr": "cezasız/suç teşkil etmeyen",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "zivilrechtlich",
+    "tr": "medeni hukuka ilişkin",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "strafrechtlich",
+    "tr": "ceza hukukuna ilişkin",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "öffentlichrechtlich",
+    "tr": "kamu hukukuna ilişkin",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "privatrechtlich",
+    "tr": "özel hukuka ilişkin",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "bindend",
+    "tr": "bağlayıcı",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "unverbindlich",
+    "tr": "bağlayıcı olmayan",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "verbindlich",
+    "tr": "bağlayıcı/kesin",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "fakultativ",
+    "tr": "isteğe bağlı/seçimlik",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "obligatorisch",
+    "tr": "zorunlu/bağlayıcı",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "subsidiär",
+    "tr": "tali/yardımcı (hukuki)",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "präzedenzlos",
+    "tr": "emsal niteliği taşımayan",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "richtungsweisend",
+    "tr": "içtihat oluşturan/yol gösterici",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "wegweisend",
+    "tr": "öncü/belirleyici",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "bahnbrechend",
+    "tr": "çığır açıcı",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "epochemachend",
+    "tr": "çağ açan/tarihe geçen",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "epochal",
+    "tr": "dönemsel/çok önemli",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "paradigmatisch",
+    "tr": "paradigmatik/örnek teşkil eden",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "exemplarisch",
+    "tr": "örnek/model niteliğinde",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "symptomatisch",
+    "tr": "semptomatik/tipik bir göstergesi olan",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "charakteristisch",
+    "tr": "karakteristik/belirgin",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "emblematisch",
+    "tr": "simgesel/temsil edici",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "prototypisch",
+    "tr": "prototipik/en tipik örnek",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "archetypisch",
+    "tr": "arketipik/ilk örnek niteliğinde",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "kanonisch",
+    "tr": "kanonik/referans sayılan",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "kanonisiert",
+    "tr": "kanonik statüye kavuşmuş",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "nichtkanonisch",
+    "tr": "kanonik olmayan",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "normativ",
+    "tr": "normatif/standart koyucu",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "deskriptiv",
+    "tr": "betimleyici/açıklayıcı",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "präskriptiv",
+    "tr": "kuralcı/ne yapılmalı diyen",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "explanativ",
+    "tr": "açıklayıcı/yorumlayıcı",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "prädiktiv",
+    "tr": "öngörücü/tahminsel",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "retrospektiv",
+    "tr": "geçmişe yönelik/geriye dönük",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "konsekutiv",
+    "tr": "ardışık/sıralı",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "kumulativ",
+    "tr": "birikimli/kümülatif",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "iterativ",
+    "tr": "yinelemeli/tekrarlı",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "graduell",
+    "tr": "kademeli/derece derece olan",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "abrupt",
+    "tr": "ani/keskin/beklenmedik",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "kontinuierlich",
+    "tr": "sürekli/kesintisiz",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "diskontinuierlich",
+    "tr": "süreksiz/kesintili",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "linear",
+    "tr": "doğrusal/lineer",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "nichtlinear",
+    "tr": "doğrusal olmayan",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "exponentiell",
+    "tr": "üstel/eksponansiyel",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "proportional",
+    "tr": "orantılı",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "umgekehrt proportional",
+    "tr": "ters orantılı",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "kausal",
+    "tr": "nedensel/sebep-sonuç ilişkili",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "korrelativ",
+    "tr": "korelasyonlu/bağıntılı",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "komplementär",
+    "tr": "tamamlayıcı",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "redundant",
+    "tr": "gereksiz yere tekrarlayan/fazlalık olan",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "prägnant",
+    "tr": "özlü/öz ve açık",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "lakonisch",
+    "tr": "kısa ve öz/az sözlü",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "weitschweifig",
+    "tr": "uzun soluklu/söylesi uzun",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "konzis",
+    "tr": "kısa ve öz/konsiz",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "regenerativ",
+    "tr": "yenileyici/kendini yenileyen",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "degenerativ",
+    "tr": "yıpratıcı/bozucu",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "fragil",
+    "tr": "kırılgan/hassas",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "robust",
+    "tr": "güçlü/sağlam",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "adaptiv",
+    "tr": "uyarlanabilir",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "maladaptiv",
+    "tr": "uyumsuz/işlevsiz uyum",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "invasiv",
+    "tr": "istilacı/saldırgan",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "endemisch",
+    "tr": "endemik/bölgeye özgü",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "epidemisch",
+    "tr": "salgın/yaygın",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "pandemisch",
+    "tr": "pandemi boyutunda",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "zoonotisc",
+    "tr": "zoonotik/hayvandan insana geçen",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "anthropogen",
+    "tr": "insandan kaynaklanan",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "geogen",
+    "tr": "yer/topraktan kaynaklanan",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "biogen",
+    "tr": "biyolojik kökenli",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "abiotisch",
+    "tr": "cansız/abiyotik",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "biotisch",
+    "tr": "canlı/biyotik",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "ökologisch tragfähig",
+    "tr": "ekolojik açıdan sürdürülebilir",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "biodiversitätsfördernd",
+    "tr": "biyoçeşitliliği destekleyen",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "epistemisch gesehen",
+    "tr": "bilgi kuramı açısından",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "ontologisch betrachtet",
+    "tr": "varlık bilimi açısından",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "per definitionem",
+    "tr": "tanım gereği",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "ex definitione",
+    "tr": "tanım gereği (Latince)",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "per se",
+    "tr": "kendi içinde/özünde",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "prima facie",
+    "tr": "ilk bakışta/görünürde",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "de facto",
+    "tr": "fiilen/pratikte",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "de jure",
+    "tr": "hukuken/yasal olarak",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "a priori",
+    "tr": "önsel/deneyden bağımsız olarak",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "a posteriori",
+    "tr": "deneysel/deneyimden sonra",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "ex ante",
+    "tr": "önceden/öngörü olarak",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "ex post",
+    "tr": "sonradan/geriye dönük olarak",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "ceteris paribus",
+    "tr": "diğer şeyler sabitken",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "mutatis mutandis",
+    "tr": "gerekli değişiklikler yapılarak",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "stricto sensu",
+    "tr": "dar anlamda",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "lato sensu",
+    "tr": "geniş anlamda",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "sensu stricto",
+    "tr": "kelimenin tam anlamıyla",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "im engeren Sinne",
+    "tr": "dar/sınırlı anlamda",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "im weiteren Sinne",
+    "tr": "geniş anlamda",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "im übertragenen Sinne",
+    "tr": "mecazi anlamda",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "infolgedessen",
+    "tr": "bunun sonucunda/dolayısıyla",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "demgemäß",
+    "tr": "buna göre/buna uygun olarak",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "dementgegen",
+    "tr": "buna karşın/buna rağmen",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "nichtsdestoweniger",
+    "tr": "buna rağmen/yine de",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "nichtsdestotrotz",
+    "tr": "buna rağmen/hâlâ",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "wenngleich",
+    "tr": "her ne kadar ... olsa da",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "obschon",
+    "tr": "her ne kadar/olmasına karşın",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "wiewohl",
+    "tr": "her ne kadar (arkaik/edebi)",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "unbeschadet",
+    "tr": "zarar vermeksizin/bir yana",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "vorbehaltlich",
+    "tr": "şartıyla/kaydıyla",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "ungeachtet",
+    "tr": "gözetmeksizin/dikkate almaksızın",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "abgesehen davon",
+    "tr": "bunun yanı sıra/bir kenara bırakılırsa",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "davon abgesehen",
+    "tr": "bunu bir kenara bırakarak",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "im Übrigen",
+    "tr": "bu arada/diğer konularda",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "überdies",
+    "tr": "bunun ötesinde/üstelik",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "zumal",
+    "tr": "özellikle/bilhassa",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "zumal da",
+    "tr": "özellikle de ... göz önüne alındığında",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "insofern",
+    "tr": "bu anlamda/bu ölçüde",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "insofern als",
+    "tr": "... bakımından",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "insoweit",
+    "tr": "bu kadara kadar/bu ölçüde",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "schlechterdings",
+    "tr": "hiçbir şekilde/kesinlikle",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "schlechthin",
+    "tr": "tam anlamıyla/salt",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "schlechterdings nicht",
+    "tr": "kesinlikle olmaz/mümkün değil",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "geradezu",
+    "tr": "tam anlamıyla/adeta",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "gleichsam",
+    "tr": "adeta/sanki",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "sozusagen",
+    "tr": "tabiri caizse/bir bakıma",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "quasi",
+    "tr": "sözde/yarı yarıya",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "gewissermaßen",
+    "tr": "bir bakıma/belirli ölçüde",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "in gewissem Sinne",
+    "tr": "belirli bir anlamda",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "nach Maßgabe",
+    "tr": "ölçüsünde/oranında",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "im Verhältnis zu",
+    "tr": "... oranla/karşılaştırıldığında",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "proportional dazu",
+    "tr": "buna orantılı olarak",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "exponentiell",
+    "tr": "üstel biçimde/katlanarak",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "kumulativ",
+    "tr": "birikimli olarak/kümülatif",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "graduell",
+    "tr": "kademeli olarak",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "sukzessive",
+    "tr": "aşamalı olarak/giderek",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "abrupt",
+    "tr": "aniden/keskin biçimde",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "diametral",
+    "tr": "tam karşıt biçimde/diyametral olarak",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "diametral entgegengesetzt",
+    "tr": "tamamen zıt yönde",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "diametrisch",
+    "tr": "diyametrik olarak",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "analytisch vorgehen",
+    "tr": "analitik yaklaşım sergileyerek",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "kritisch hinterfragen",
+    "tr": "eleştirel biçimde sorgulamak için",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "reflektiert",
+    "tr": "düşünerek/öz farkındalıkla",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "differenziert betrachten",
+    "tr": "nüanslı biçimde değerlendirmek",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "nuanciert",
+    "tr": "nüanslı olarak",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "differenziert",
+    "tr": "ayrıntılı/nüanslı biçimde",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "pauschal",
+    "tr": "toptan/genelleyerek",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "undifferenziert",
+    "tr": "ayrımsız/nüanssız biçimde",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "einseitig",
+    "tr": "tek taraflı biçimde",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "ausgewogen",
+    "tr": "dengeli biçimde",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "unausgewogen",
+    "tr": "dengesiz biçimde",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "sachlich",
+    "tr": "nesnel/olgusal biçimde",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "nüchtern",
+    "tr": "ayık/duygusuz biçimde",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "leidenschaftlich",
+    "tr": "tutkuyla/hevesle",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "distanziert",
+    "tr": "mesafeli biçimde",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "involviert",
+    "tr": "dahil olarak/ilgili şekilde",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "engagiert",
+    "tr": "kararlılıkla/adanmışlıkla",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "unengagiert",
+    "tr": "isteksizce/ilgisizce",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "ambivalent",
+    "tr": "çelişkili/hem olumlu hem olumsuz",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "zwiespältig",
+    "tr": "çelişkili/bölünmüş hissederek",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "kontextabhängig",
+    "tr": "bağlama bağlı olarak",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "kontextunabhängig",
+    "tr": "bağlamdan bağımsız olarak",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "situationsbedingt",
+    "tr": "durumsal koşullar nedeniyle",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "unter Vorbehalt",
+    "tr": "çekinceli olarak/şartlı biçimde",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "ohne Vorbehalt",
+    "tr": "çekingesiz/koşulsuz biçimde",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "mit Einschränkung",
+    "tr": "kısıtlamayla/sınırlı olarak",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "ohne Einschränkung",
+    "tr": "kısıtlama olmaksızın",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "bedingt",
+    "tr": "şartlı/koşullu olarak",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "unbedingt",
+    "tr": "koşulsuz/mutlaka",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "kategorisch",
+    "tr": "kategorik/kesin biçimde",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "kategorisch ausschließen",
+    "tr": "kesinlikle dışlamak",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "pauschal ablehnen",
+    "tr": "toptan reddetmek",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "im Einzelfall",
+    "tr": "münferit olarak/tek tek bakıldığında",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "fallweise",
+    "tr": "duruma göre/vakaya özgü",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "exemplarisch",
+    "tr": "örnek olarak/temsili biçimde",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "stellvertretend",
+    "tr": "temsilen/vekâleten",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "repräsentativ",
+    "tr": "temsil edici biçimde",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "symptomatisch",
+    "tr": "belirleyici/semptomatik biçimde",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "charakteristischerweise",
+    "tr": "karakteristik olarak/tipik biçimde",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "bezeichnenderweise",
+    "tr": "anlamlı biçimde/ilginçtir ki",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "in der Konsequenz",
+    "tr": "sonuç itibarıyla",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "letztlich",
+    "tr": "nihayetinde/en sonunda",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "letztendlich",
+    "tr": "en sonunda/sonuç olarak",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "im Endeffekt",
+    "tr": "sonuç olarak/netice itibarıyla",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "unterm Strich",
+    "tr": "sonuç olarak/net olarak",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "alles in allem",
+    "tr": "her şeyi bir arada düşününce",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "summa summarum",
+    "tr": "özetle/hepsinin toplamı olarak",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "abschließend",
+    "tr": "sonuç olarak/son olarak",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "resümierend",
+    "tr": "özetleyerek/sonuç çıkararak",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "fazit ziehend",
+    "tr": "sonuca vararak",
+    "level": "B2",
+    "type": "adverb"
+  },
+  {
+    "de": "womit",
+    "tr": "ki onunla / bununla",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "worüber",
+    "tr": "ki onun üzerinde / hakkında",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "worauf",
+    "tr": "ki üzerinde / beklediği şey",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "woran",
+    "tr": "ki ondan / neyin üzerinde",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "wofür",
+    "tr": "ki bunun için / neyin için",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "wozu",
+    "tr": "bunun için / ne amaçla",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "wodurch",
+    "tr": "ki sayesinde / hangi yolla",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "wonach",
+    "tr": "ki onun ardından / neyi aradığı",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "wovor",
+    "tr": "ki önünde / neyin karşısında",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "wobei",
+    "tr": "ki bunu yaparken / neyi yaparken",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "wohin",
+    "tr": "nereye / hangi yöne",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "woher",
+    "tr": "nereden / hangi kaynaktan",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "worüber hinaus",
+    "tr": "bunun ötesinde",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "wovon",
+    "tr": "ki ondan / neyin üzerine",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "worunter",
+    "tr": "ki altında / neler arasında",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "worein",
+    "tr": "ki içine / neyin içine",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "woraus",
+    "tr": "ki ondan / neden yapılmış",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "worum",
+    "tr": "ki etrafında / ne için",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "wogegen",
+    "tr": "ki buna karşı / neye karşı",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "womöglich",
+    "tr": "mümkünse / belki de",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "eben dieser",
+    "tr": "tam da bu/işte bu (erkil)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "eben diese",
+    "tr": "tam da bu/işte bu (dişil)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "eben dieses",
+    "tr": "tam da bu/işte bu (eşyansız)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "jener besagte",
+    "tr": "söz konusu o (erkil)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "jene besagte",
+    "tr": "söz konusu o (dişil)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "jenes besagte",
+    "tr": "söz konusu o (eşyansız)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "der Genannte",
+    "tr": "adı geçen/söz edilen (erkil)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "die Genannte",
+    "tr": "adı geçen/söz edilen (kadın)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Genannte",
+    "tr": "adı geçen/söz edilen (şey)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "der Erstgenannte",
+    "tr": "ilk adı geçen/ilk bahsedilen",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "der Letztgenannte",
+    "tr": "son adı geçen/son bahsedilen",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "ersterer",
+    "tr": "birincisi/önceki (erkil)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "erstere",
+    "tr": "birincisi/önceki (dişil)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "ersteres",
+    "tr": "birincisi/önceki (eşyansız)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "letzterer",
+    "tr": "ikincisi/sonraki (erkil)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "letztere",
+    "tr": "ikincisi/sonraki (dişil)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "letzteres",
+    "tr": "ikincisi/sonraki (eşyansız)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "der Vorgenannte",
+    "tr": "daha önce adı geçen (erkil)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "die Vorgenannte",
+    "tr": "daha önce adı geçen (kadın)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Vorgenannte",
+    "tr": "daha önce sözü edilen (şey)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "ein jeder",
+    "tr": "herkes/her biri (vurgulu, erkil)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "eine jede",
+    "tr": "herkes/her biri (vurgulu, dişil)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "ein jedes",
+    "tr": "her biri (vurgulu, eşyansız)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "wer immer",
+    "tr": "her kim olursa olsun",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "was immer",
+    "tr": "ne olursa olsun",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "wo immer",
+    "tr": "nerede olursa olsun",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "wann immer",
+    "tr": "ne zaman olursa olsun",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "wie immer",
+    "tr": "nasıl olursa olsun",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "welcher auch immer",
+    "tr": "hangisi olursa olsun (erkil)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "welche auch immer",
+    "tr": "hangisi olursa olsun (dişil)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "welches auch immer",
+    "tr": "hangisi olursa olsun (eşyansız)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "jedweder",
+    "tr": "her türlü/her biri (arkaik, erkil)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "jedwede",
+    "tr": "her türlü/her biri (arkaik, dişil)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "jedwedes",
+    "tr": "her türlü/her biri (arkaik, eşyansız)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "des Weiteren",
+    "tr": "bunun yanı sıra (zamir işlevinde)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "ein Übriges tun",
+    "tr": "fazladan bir şey yapmak (deyim)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Übrige",
+    "tr": "geriye kalan/geri kalanı",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "ein und dasselbe",
+    "tr": "tam olarak aynı şey",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "ein und derselbe",
+    "tr": "tamamen aynı kişi (erkil)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "ein und dieselbe",
+    "tr": "tamamen aynı kişi (dişil)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "derjenige, der",
+    "tr": "o kişi ki o / kim ... ise o",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "diejenige, die",
+    "tr": "o kişi ki o (dişil) / kim ... ise o",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "dasjenige, das",
+    "tr": "o şey ki / ne ... ise o",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "diejenigen, die",
+    "tr": "onlar ki / kim ... iseler onlar",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "derjenige, dem",
+    "tr": "o kişi ki ona / kime ... ise ona",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "derjenige, den",
+    "tr": "o kişi ki onu / kimi ... ise onu",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "derjenige, dessen",
+    "tr": "o kişi ki onun / kimin ... ise onun",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "diejenige, deren",
+    "tr": "o kişi ki onun (dişil) / kimin ... ise onun",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "diejenigen, denen",
+    "tr": "o kişiler ki onlara / kimlere ... ise",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "diejenigen, deren",
+    "tr": "o kişiler ki onların / kimlerin ... ise",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "irgendwelcher",
+    "tr": "herhangi bir türden (erkil)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "irgendwelche",
+    "tr": "herhangi bir türden (dişil/çoğul)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "irgendwelches",
+    "tr": "herhangi bir türden (eşyansız)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "irgendwann",
+    "tr": "bir zaman/ne zaman olursa olsun",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "irgendwie",
+    "tr": "bir şekilde/nasıl olursa olsun",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "irgendwoher",
+    "tr": "nereden olursa olsun",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "irgendwohin",
+    "tr": "nereye olursa olsun",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "irgendwo anders",
+    "tr": "başka bir yerde",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "irgendwas anderes",
+    "tr": "başka bir şey",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "irgendjemand anderes",
+    "tr": "başka biri",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "selbiges",
+    "tr": "aynısı/aynı şey (eşyansız, resmi)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "selbige",
+    "tr": "aynısı (dişil/çoğul, resmi)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "selbiger",
+    "tr": "aynısı (erkil, resmi)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "derselbige",
+    "tr": "işte aynısı (vurgulu, erkil)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "dieselbige",
+    "tr": "işte aynısı (vurgulu, dişil)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "dasselbige",
+    "tr": "işte aynısı (vurgulu, eşyansız)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "ebensolcher",
+    "tr": "tam böyle biri (erkil)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "ebensolche",
+    "tr": "tam böyle biri (dişil/çoğul)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "ebensolches",
+    "tr": "tam böyle bir şey (eşyansız)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "solch ein",
+    "tr": "böyle bir (erkil)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "solch eine",
+    "tr": "böyle bir (dişil)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "solch eines",
+    "tr": "böyle bir (eşyansız)",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "wechselseitig",
+    "tr": "karşılıklı/her iki taraftan",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "gegenseitig",
+    "tr": "karşılıklı olarak",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "beiderseitig",
+    "tr": "her iki taraftan/çift yönlü",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "einseitig",
+    "tr": "tek taraflı",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "sich gegenseitig helfen",
+    "tr": "birbirine yardım etmek",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "sich gegenseitig beeinflussen",
+    "tr": "birbirini etkilemek",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "voneinander lernen",
+    "tr": "birbirinden öğrenmek",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "aufeinander eingehen",
+    "tr": "birbirini dikkate almak",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "miteinander kommunizieren",
+    "tr": "birbirleriyle iletişim kurmak",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "füreinander einstehen",
+    "tr": "birbirini desteklemek/birbirine sahip çıkmak",
+    "level": "B2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Spektrum",
+    "tr": "spektrum/yelpaze",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Bandbreite",
+    "tr": "bant genişliği/yelpaze",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Tragweite",
+    "tr": "etki alanı/önemi",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Reichweite",
+    "tr": "erişim/kapsam",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Tiefgründigkeit",
+    "tr": "derinlik/enginlik",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Oberflächlichkeit",
+    "tr": "yüzeysellik",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Substanz",
+    "tr": "özündeki değer/madde",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Essenz",
+    "tr": "öz/özet",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "das Wesen",
+    "tr": "öz/nitelik/varlık",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "der Kern",
+    "tr": "çekirdek/öz",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "der Ursprung",
+    "tr": "köken/kaynak",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Genese",
+    "tr": "oluşum/köken",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Entstehung",
+    "tr": "oluşum/ortaya çıkış",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "der Verlauf",
+    "tr": "seyir/süreç",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Chronologie",
+    "tr": "kronoloji/zaman çizelgesi",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Sequenz",
+    "tr": "sıralama/dizi",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Iteration",
+    "tr": "yineleme/tekrar",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "der Zyklus",
+    "tr": "döngü/çevrim",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Spirale",
+    "tr": "sarmal/spiral",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "das Kontinuum",
+    "tr": "süreklilik/devamlılık",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Diskontinuität",
+    "tr": "süreksizlik/kopukluk",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "der Bruch",
+    "tr": "kopuş/kırılma/kesinti",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Zäsur",
+    "tr": "kesme/dönüm noktası",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Wende",
+    "tr": "kırılma/dönüm noktası",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "der Umbruch",
+    "tr": "köklü değişim/devrim",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Revolution",
+    "tr": "devrim",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Evolution",
+    "tr": "evrim/gelişim",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Koevolution",
+    "tr": "birlikte evrim",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Selektion",
+    "tr": "seçilim/eleme",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Variation",
+    "tr": "varyasyon/çeşitlilik",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Mutation",
+    "tr": "mutasyon/değişim",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Adaption",
+    "tr": "uyum/adaptasyon",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Maladaption",
+    "tr": "uyumsuzluk",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Homogenität",
+    "tr": "türdeşlik/homojenlik",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Heterogenität",
+    "tr": "çeşitlilik/heterojenlik",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Uniformität",
+    "tr": "tekdüzelik",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Pluralität",
+    "tr": "çoğulculuk/çeşitlilik",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Singularität",
+    "tr": "tekil olma/tekillik",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Universalität",
+    "tr": "evrensellik",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Partikularität",
+    "tr": "tikellik/özgüllük",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Relativität",
+    "tr": "görelilik/izafiyet",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Absolutheit",
+    "tr": "mutlaklık",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Kontingenz",
+    "tr": "rastlantısallık/kontenjans",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Notwendigkeit",
+    "tr": "zorunluluk/gereklilik",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Möglichkeit",
+    "tr": "olasılık/ihtimal",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Unmöglichkeit",
+    "tr": "imkânsızlık",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Wahrscheinlichkeit",
+    "tr": "olasılık/ihtimal",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "die Unwahrscheinlichkeit",
+    "tr": "düşük olasılık/olmazlık",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "der Determinismus",
+    "tr": "determinizm/belirlenimcilik",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "der Indeterminismus",
+    "tr": "indeterminizm",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "der Libertarismus",
+    "tr": "libertarizm/özgürlükçülük",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "der Kompatibilismus",
+    "tr": "uyuşmacılık/kompatibilizm",
+    "level": "B2",
+    "type": "noun"
+  },
+  {
+    "de": "heterogen",
+    "tr": "heterojen/çeşitli yapılı",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "homogen",
+    "tr": "homojen/türdeş",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "uniform",
+    "tr": "tek biçimli/üniforma",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "divers",
+    "tr": "çeşitli/farklı",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "monolithisch",
+    "tr": "monolitik/tek parça",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "hybrid",
+    "tr": "melez/karma",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "synkretistisch",
+    "tr": "senkretik/karışık",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "eklektisch",
+    "tr": "eklektik/seçmeci",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "originär",
+    "tr": "özgün/asli",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "derivativ",
+    "tr": "türev/türetilmiş",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "autonom",
+    "tr": "özerk/bağımsız",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "heteronom",
+    "tr": "başkasının kuralına bağlı",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "souverän",
+    "tr": "egemen/güçlü",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "abhängig",
+    "tr": "bağımlı",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "interdependent",
+    "tr": "karşılıklı bağımlı",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "autopoietisch",
+    "tr": "kendini üreten/otopoietik",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "selbstreferenziell",
+    "tr": "öz-referanslı",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "reflexiv",
+    "tr": "yansımalı/öz-referanslı",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "transitiv",
+    "tr": "geçişli/transitif",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "intransitiv",
+    "tr": "geçişsiz/intransitif",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "symmetrisch",
+    "tr": "simetrik",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "asymmetrisch",
+    "tr": "asimetrik",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "reziprok",
+    "tr": "karşılıklı/mütekabil",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "unilateral",
+    "tr": "tek taraflı",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "bilateral",
+    "tr": "ikili/çift taraflı",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "multilateral",
+    "tr": "çok taraflı",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "supranational",
+    "tr": "ulusüstü",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "transnational",
+    "tr": "ulusötesi",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "interkontinental",
+    "tr": "kıtalararası",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "systemisch",
+    "tr": "sistemik/sistem kaynaklı",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "funktional",
+    "tr": "işlevsel/fonksiyonel",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "funktionslos",
+    "tr": "işlevsiz/görevsiz",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "virulent",
+    "tr": "virülan/etkin/tehlikeli",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "latent",
+    "tr": "gizil/örtük/latent",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "manifest",
+    "tr": "belirgin/açık/manifest",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "implizit",
+    "tr": "örtük/dolaylı",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "explizit",
+    "tr": "açık/belirgin/doğrudan",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "impliziert",
+    "tr": "ima edilen/örtük",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "vorausgesetzt",
+    "tr": "varsayılan/ön kabul",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "postuliert",
+    "tr": "postüle edilen/ilke olarak kabul edilen",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "kontradiktorisch",
+    "tr": "çelişkili/kontradiktor",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "konsistent",
+    "tr": "tutarlı/çelişkisiz",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "inkonsistent",
+    "tr": "tutarsız/çelişkili",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "kohärent",
+    "tr": "bütünlüklü/anlamlı bütün oluşturan",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "inkohärent",
+    "tr": "dağınık/bütünlüğü olmayan",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "konvergent",
+    "tr": "yakınsayan/aynı noktaya gelen",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "divergent",
+    "tr": "ayrışan/farklı yönlere giden",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "prospektiv",
+    "tr": "ileriye dönük/prospektif",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "transversal",
+    "tr": "enlemesine/çapraz",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "longitudinal",
+    "tr": "boylamasına/uzunlamasına",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "kasuistisch",
+    "tr": "vaka temelli/bireysel olaylardan hareket eden",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "idiographisch",
+    "tr": "bireye özgü/idiografik",
+    "level": "B2",
+    "type": "adjective"
+  },
+  {
+    "de": "nomothetisch",
+    "tr": "geneli açıklamaya yönelik/nomotetik",
+    "level": "B2",
+    "type": "adjective"
+  }
+]

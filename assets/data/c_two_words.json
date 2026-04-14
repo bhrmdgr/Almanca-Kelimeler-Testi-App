@@ -1,0 +1,4262 @@
+[
+  {
+    "de": "die Aporethik",
+    "tr": "apori bilimi/çözümsüzlük çalışması",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Epoché",
+    "tr": "epokhe/yargı askıya alma (Husserl)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Intentionalität",
+    "tr": "yönelimsellik/intentionality (Husserl)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Noesis",
+    "tr": "noesis/idrak edici bilinç (Husserl)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "das Noema",
+    "tr": "noema/idrak edilen içerik (Husserl)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Lebenswelt",
+    "tr": "yaşam dünyası (Husserl)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Intersubjektivität",
+    "tr": "öznelerarasılık",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Fremderfahrung",
+    "tr": "ötekinin deneyimlenmesi",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Zeitlichkeit",
+    "tr": "zamansallık (Heidegger)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Geworfenheit",
+    "tr": "fırlatılmışlık (Heidegger)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "das Dasein",
+    "tr": "orada-oluş/varoluş (Heidegger)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "das Mitsein",
+    "tr": "birlikte-oluş (Heidegger)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Sorge",
+    "tr": "kaygı/bakım (Heidegger)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Entschlossenheit",
+    "tr": "kararlılık/kararlı oluş (Heidegger)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Eigentlichkeit",
+    "tr": "özgünlük/sahici oluş (Heidegger)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Uneigentlichkeit",
+    "tr": "sahte oluş/özgünsüzlük",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Verfallenheit",
+    "tr": "düşmüşlük/düşkünlük (Heidegger)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "das Man",
+    "tr": "genel 'insan'/kalabalığa uyma (Heidegger)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Angst",
+    "tr": "varoluş kaygısı/ontolojik korku (Heidegger)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "der Augenblick",
+    "tr": "an/anın içinde kılınış (Heidegger)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Sittlichkeit",
+    "tr": "törellik/ahlâksal yaşam (Hegel)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Moralität",
+    "tr": "ahlâkilik/ödev ahlakı (Hegel)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Entzweiung",
+    "tr": "yabancılaşma/ikiye bölünme (Hegel)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Aufhebung",
+    "tr": "diyalektik kaldırma/aşma (Hegel)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "das An-sich",
+    "tr": "kendinde-şey/potansiyel (Hegel)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "das Für-sich",
+    "tr": "kendi için olan/bilinçli (Hegel)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "das An-und-für-sich",
+    "tr": "hem kendinde hem kendi için (Hegel)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Negation der Negation",
+    "tr": "negasyonun negasyonu (Hegel)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "der absolute Geist",
+    "tr": "mutlak tin/ruh (Hegel)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Phänomenologie des Geistes",
+    "tr": "tinin görüngübilimi (Hegel yapıtı)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "das Ding an sich",
+    "tr": "kendinde şey/numen (Kant)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "der kategorische Imperativ",
+    "tr": "kategorik buyruk (Kant)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die transzendentale Ästhetik",
+    "tr": "aşkınsal estetik (Kant)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die transzendentale Analytik",
+    "tr": "aşkınsal analitik (Kant)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die transzendentale Dialektik",
+    "tr": "aşkınsal diyalektik (Kant)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die transzendentale Apperzeption",
+    "tr": "aşkınsal apersepsiyon (Kant)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "das Schematismus",
+    "tr": "şematizm (Kant)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Antinomie",
+    "tr": "antinomi/karşıtlık (Kant)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "der Schein",
+    "tr": "görünüş/yanılsama (Kant)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Vernunftidee",
+    "tr": "akıl idesi (Kant)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Verdinglichung",
+    "tr": "nesneleştirme/reifikasyon (Lukács)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die instrumentelle Vernunft",
+    "tr": "araçsal akıl (Horkheimer/Adorno)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Dialektik der Aufklärung",
+    "tr": "aydınlanmanın diyalektiği",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die negative Dialektik",
+    "tr": "negatif diyalektik (Adorno)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Nicht-Identität",
+    "tr": "kimliksizlik/özdeş olmayanı (Adorno)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "der Mimesisbegriff",
+    "tr": "mimesis kavramı (Adorno)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Kulturindustrie",
+    "tr": "kültür endüstrisi (Adorno/Horkheimer)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "das Eingedenken",
+    "tr": "anımsama/içten hatırlama (Benjamin)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Jetztzeit",
+    "tr": "şimdi-zaman/anlık tarih (Benjamin)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "der Engel der Geschichte",
+    "tr": "tarihin meleği (Benjamin)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die kommunikative Vernunft",
+    "tr": "iletişimsel akıl (Habermas)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Lebensweltkolonisierung",
+    "tr": "yaşam dünyasının sömürgeleştirilmesi",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "der herrschaftsfreie Diskurs",
+    "tr": "egemenliksiz söylem (Habermas)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Deliberation",
+    "tr": "müzakere/kamusal tartışma",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "das Öffentlichkeitsprinzip",
+    "tr": "kamusallık ilkesi",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Anerkennungstheorie",
+    "tr": "tanınma teorisi (Honneth)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die soziale Pathologie",
+    "tr": "toplumsal patoloji (Honneth)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Reifikation",
+    "tr": "reifikasyon/nesneleştirme (Honneth)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Verdinglichung des Anderen",
+    "tr": "ötekinin nesneleştirilmesi",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die normative Rekonstruktion",
+    "tr": "normatif yeniden yapılandırma",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "der Logozentrismus",
+    "tr": "logosentrizm (Derrida)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Différance",
+    "tr": "differans/erteleme-farklılaşma (Derrida)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Spur",
+    "tr": "iz/trace (Derrida)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "das Supplement",
+    "tr": "ek/tamamlayıcı (Derrida)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "das Pharmakon",
+    "tr": "pharmakon/hem ilaç hem zehir (Derrida)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Archischrift",
+    "tr": "arşiyazı/ilksel yazı (Derrida)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "das Simulakrum",
+    "tr": "simülakrum/asılsız kopya (Baudrillard)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Hyperrealität",
+    "tr": "hiperrealite (Baudrillard)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Deterritorialisierung",
+    "tr": "yersiz yurtsuzlaştırma (Deleuze/Guattari)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Reterritorialisierung",
+    "tr": "yeniden yurt edinme (Deleuze/Guattari)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "das Rhizom",
+    "tr": "rizom/kök-ağ (Deleuze/Guattari)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Assemblagentheorie",
+    "tr": "montaj teorisi (Deleuze)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "das Dispositiv",
+    "tr": "düzenek/dispositive (Foucault)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Episteme",
+    "tr": "episteme/bilgi rejimi (Foucault)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Biopolitik",
+    "tr": "biyopolitika (Foucault)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Gouvernementalität",
+    "tr": "yönetimsellik (Foucault)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "das Subjektivierungsregime",
+    "tr": "özneleştirme rejimi (Foucault)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Heterotopie",
+    "tr": "heterotopi (Foucault)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Archäologie des Wissens",
+    "tr": "bilginin arkeolojisi (Foucault yapıtı)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Genealogie der Moral",
+    "tr": "ahlakın soykütüğü (Nietzsche)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "der Sprachspielbegriff",
+    "tr": "dil oyunu kavramı (Wittgenstein)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Familienähnlichkeit",
+    "tr": "aile benzerliği (Wittgenstein)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "das Privatspracheargument",
+    "tr": "özel dil argümanı (Wittgenstein)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "der Bildtheorie der Sprache",
+    "tr": "dilin resim teorisi (Wittgenstein)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Bedeutungstheorie",
+    "tr": "anlam teorisi",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Referenztheorie",
+    "tr": "gönderge teorisi",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Gebrauchstheorie",
+    "tr": "kullanım teorisi (anlam)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "der Fregesche Sinn",
+    "tr": "Frege'nin anlam kavramı",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Russellsche Kennzeichnung",
+    "tr": "Russell'ın tanımlayıcılar teorisi",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Kripkesche Semantik",
+    "tr": "Kripke semantiği/olası dünyalar",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "das Quinesche Gavagai-Problem",
+    "tr": "Quine'ın gavagai sorunu",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Unterbestimmungsthese",
+    "tr": "yetersiz belirlenme tezi",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Übersetzungsunbestimmtheit",
+    "tr": "çevirinin belirsizliği (Quine)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "das ontologische Engagement",
+    "tr": "ontolojik bağlanım/taahhüt",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die semantische Wahrheitstheorie",
+    "tr": "semantik doğruluk teorisi (Tarski)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die deflationäre Wahrheitstheorie",
+    "tr": "deflatif doğruluk teorisi",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die kohärentistische Wahrheitstheorie",
+    "tr": "bütünlükçü doğruluk teorisi",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die korrespondenztheoretische Wahrheit",
+    "tr": "yazışma/uygunluk doğruluk teorisi",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die pragmatistische Wahrheitstheorie",
+    "tr": "pragmatist doğruluk teorisi",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die epistemische Rechtfertigung",
+    "tr": "epistemik gerekçelendirme",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Auktoriale Erzählperspektive",
+    "tr": "yazarsal anlatı perspektifi",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Figurale Erzählperspektive",
+    "tr": "figüral anlatı perspektifi",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Neutrale Erzählperspektive",
+    "tr": "nötr anlatı perspektifi",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "der implizite Autor",
+    "tr": "örtük yazar (Booth)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "der implizite Leser",
+    "tr": "örtük okur (Iser)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Leserstrategie",
+    "tr": "okur stratejisi",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "der Erwartungshorizont",
+    "tr": "beklenti ufku (Jauss)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Horizontverschmelzung",
+    "tr": "ufukların kaynaşması (Gadamer)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Wirkungsästhetik",
+    "tr": "etki estetiği/alımlama estetiği",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Rezeptionsästhetik",
+    "tr": "resepsiyon estetiği (Konstanz Okulu)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Narratologie",
+    "tr": "anlatıbilim/narratoloji",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Fokalisierung",
+    "tr": "odaklanma/focalization (Genette)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Analepse",
+    "tr": "analeps/geçmişe dönüş (anlatı)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Prolepse",
+    "tr": "proleps/önceden haber verme",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Diegese",
+    "tr": "diegesis/anlatı evreni",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Metalepse",
+    "tr": "metalepsis/anlatı düzeyleri arasında geçiş",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Paratextualität",
+    "tr": "paraşellik/başlık, ön söz vb.",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Hypertextualität",
+    "tr": "üstmetinlilik (Genette)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Architextualität",
+    "tr": "üst-metin düzeyi (Genette)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "das Mise en abyme",
+    "tr": "iç yansıma/yansıtma ilkesi",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "das soziale Imaginäre",
+    "tr": "toplumsal imgelemi (Castoriadis)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Autopoiesis",
+    "tr": "otopoiesis/kendini üreten sistem (Maturana/Luhmann)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die strukturelle Kopplung",
+    "tr": "yapısal eşleşme (Luhmann)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die funktionale Differenzierung",
+    "tr": "işlevsel farklılaşma (Luhmann)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "das Kontingenzproblem",
+    "tr": "olumsallık sorunu (Luhmann)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Weltgesellschaft",
+    "tr": "dünya toplumu (Luhmann)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die doppelte Kontingenz",
+    "tr": "çifte olumsallık (Luhmann/Parsons)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Sinnkonstitution",
+    "tr": "anlam kuruluşu",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Systemrationalität",
+    "tr": "sistem rasyonelliği",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Inklusion/Exklusion-Differenz",
+    "tr": "dahil etme/dışlama farkı",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Habitualisierung",
+    "tr": "alışkanlık kazanma/habitüsleşme",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Institutionalisierung",
+    "tr": "kurumlaşma",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Legitimation durch Verfahren",
+    "tr": "usul aracılığıyla meşrulaştırma (Luhmann)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "das Wissenssoziologie",
+    "tr": "bilgi sosyolojisi",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Sozialkonstruktion der Wirklichkeit",
+    "tr": "gerçekliğin toplumsal inşası (Berger/Luckmann)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Typisierung",
+    "tr": "tipleme/tipleştirme (Schütz)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Appräsentation",
+    "tr": "eşduyum/empatiyle kavrama (Schütz)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "der Sinnzusammenhang",
+    "tr": "anlam bağlamı/anlam ilişkisi",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Handlungsrationalität",
+    "tr": "eylem rasyonelliği",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Zweckrationalität",
+    "tr": "amaç rasyonelliği (Weber)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Transformationsproblem",
+    "tr": "dönüşüm sorunu (Marx)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "der Mehrwert",
+    "tr": "artı değer (Marx)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Mehrwertrate",
+    "tr": "artı değer oranı (Marx)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die organische Zusammensetzung des Kapitals",
+    "tr": "sermayenin organik bileşimi",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Profitrate",
+    "tr": "kâr oranı",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "der tendenziell fallende Profitrate",
+    "tr": "kâr oranının düşme eğilimi (Marx)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Überakkumulation",
+    "tr": "aşırı birikim",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Kapitalvernichtung",
+    "tr": "sermayenin tahrip edilmesi",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Krisentheorie",
+    "tr": "kriz teorisi",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Finanzialisierungsthese",
+    "tr": "finansallaşma tezi",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Rentierökonomie",
+    "tr": "rantiye ekonomisi",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die kognitive Kapitalismus",
+    "tr": "bilişsel kapitalizm",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Plattformökonomie",
+    "tr": "platform ekonomisi",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Sharing Economy",
+    "tr": "paylaşım ekonomisi",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Gig-Economy",
+    "tr": "geçici iş/proje bazlı ekonomi",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Prekarität",
+    "tr": "güvencesizlik/prekarya",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Abstraktionsarbeit",
+    "tr": "soyut emek (Marx)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Konkrete Arbeit",
+    "tr": "somut emek (Marx)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "der Fetischcharakter der Ware",
+    "tr": "metanın fetişist karakteri (Marx)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Warenform",
+    "tr": "meta formu (Marx)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Ausnahmezustand",
+    "tr": "olağanüstü hal (Schmitt)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Souveränitätsentscheidung",
+    "tr": "egemenlik kararı (Schmitt)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Freund-Feind-Unterscheidung",
+    "tr": "dost-düşman ayrımı (Schmitt)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die politische Theologie",
+    "tr": "siyasi teoloji (Schmitt)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Dezisionismus",
+    "tr": "karar vericiliği/desizionizm (Schmitt)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die agonale Demokratie",
+    "tr": "agonistik demokrasi (Mouffe)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Radikale Demokratie",
+    "tr": "radikal demokrasi (Laclau/Mouffe)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Hegemonialkampf",
+    "tr": "hegemonya mücadelesi (Laclau/Mouffe)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "das leere Signifikanten",
+    "tr": "boş gösterge (Laclau)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Äquivalenzkette",
+    "tr": "eşdeğer zinciri (Laclau)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die performative Subversion",
+    "tr": "edimsel yıkıcılık (Butler)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Genderperfomativität",
+    "tr": "toplumsal cinsiyet performativitesi (Butler)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Heteronormativität",
+    "tr": "heteronormativite",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Matrix der Intelligibilität",
+    "tr": "anlaşılırlık matrisi (Butler)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die melancholische Identität",
+    "tr": "melankolik kimlik (Butler)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Prekarisierung des Lebens",
+    "tr": "yaşamın güvencesizleşmesi (Butler)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Trauerbarkeit",
+    "tr": "yas tutulabilirlik (Butler)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Vulnerabilität",
+    "tr": "kırılganlık/savunmasızlık",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die politische Ontologie",
+    "tr": "siyasi ontoloji",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die post-foundationale Theorie",
+    "tr": "temel sonrası teori",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "existenzial",
+    "tr": "varoluşsal/egzistansiyel (Heidegger terminoloji)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "existenziell",
+    "tr": "varoluşa ait/varoluş düzleminde",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "ontisch",
+    "tr": "varlıksal/varlıkla ilgili (Heidegger)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "ontologisch-formal",
+    "tr": "biçimsel ontolojik",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "daseinsmäßig",
+    "tr": "orada-oluşa ait/Dasein'a özgü",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "weltlich",
+    "tr": "dünyaya ait/dünyevi (Heidegger)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "innerweltlich",
+    "tr": "dünyanın içindeki/dünya-içi",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "jemeinig",
+    "tr": "her seferinde benim olan/kişiye özgü (Heidegger)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "eigentlich",
+    "tr": "sahici/özgün/gerçek anlamda (Heidegger)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "uneigentlich",
+    "tr": "sahte/özgünsüz (Heidegger)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "erschlossen",
+    "tr": "açılmış/ifşa edilmiş (Heidegger)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "verfallen",
+    "tr": "düşmüş/bataklığa batmış (Heidegger)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "geworfen",
+    "tr": "fırlatılmış/atılmış (Heidegger)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "entschlossen",
+    "tr": "kararlı/karar kılınmış (Heidegger)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "ekstatisch",
+    "tr": "kendinden dışarı çıkan/ekstatik",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "zeitigend",
+    "tr": "zamansallaşan/zamanı açan",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "transzendierend",
+    "tr": "aşan/öteleyen",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "phänomenologisch-hermeneutisch",
+    "tr": "fenomenolojik-hermenötik",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "destruktiv-konstruktiv",
+    "tr": "yıkıcı-kurucu (Heidegger yöntemi)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "seinsgeschichtlich",
+    "tr": "varlık tarihine ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "dialektisch-spekulativ",
+    "tr": "diyalektik-spekülatif (Hegel)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "hegelsich absolut",
+    "tr": "Hegelci anlamda mutlak",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "spekulativ-idealistisch",
+    "tr": "spekülatif idealist",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "aufhebend",
+    "tr": "hem kaldıran hem koruyan hem yükselten",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "vermittelnd",
+    "tr": "arabulucu/dolayımlayan",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "unvermittelt",
+    "tr": "dolayımsız/aracısız",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "bestimmt negierend",
+    "tr": "belirli olumsuzlayan",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "abstrakt allgemein",
+    "tr": "soyut tümel",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "konkret allgemein",
+    "tr": "somut tümel",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "sittlich",
+    "tr": "törel/toplumsal ahlâka uygun (Hegel)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "moralisch-abstrakt",
+    "tr": "soyut ahlâki (Hegel)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "weltgeistlich",
+    "tr": "dünya tininin/tinine ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "geistesgeschichtlich",
+    "tr": "tin tarihi açısından",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "ideengeschichtlich",
+    "tr": "ideler tarihi açısından",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "begriffsimmanent",
+    "tr": "kavramın içinde kalan",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "begriffsüberschreitend",
+    "tr": "kavramı aşan",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "widerspruchsimmanent",
+    "tr": "çelişkiyi içinde barındıran",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "aufhebungslogisch",
+    "tr": "kaldırma mantığına uygun",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "triadisch-dialektisch",
+    "tr": "triadik-diyalektik",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "syllogistisch-deduktiv",
+    "tr": "kıyasa dayalı-tümden gelimli",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "dekonstruktiv",
+    "tr": "yapısökücü/dekonstruktif",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "logozentrisme entgegengesetzt",
+    "tr": "logosentrizme karşı",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "phonozentrisch",
+    "tr": "ses merkezci/fonosentrik",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "différantiel",
+    "tr": "differansiyal/ertelemeli",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "palimpsestisch",
+    "tr": "palimpsest/üst üste yazılı",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "archi-schriftlich",
+    "tr": "arşiyazıya ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "supplementär",
+    "tr": "tamamlayıcı/ek niteliğinde (Derrida)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "iterabel",
+    "tr": "tekrarlanabilir/her seferinde farklı (Derrida)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "disseminierend",
+    "tr": "anlam yayan/anlam saçan",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "aporetisch-unentscheidbar",
+    "tr": "aporetik-karar verilemez",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "unentscheidbar",
+    "tr": "karar verilemez/undecidable (Derrida)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "hauntologisch",
+    "tr": "hayaletsi/hauntolojik (Derrida)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "messianisch ohne Messianismus",
+    "tr": "mesyanizmsiz mesyanik",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "hospitabel",
+    "tr": "konukseverlik sunan/misafirperver",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "inkalkulabel",
+    "tr": "hesap edilemez/beklenmedik",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "ereignishaft",
+    "tr": "olay niteliğinde/beklenmedik",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "geisterhaft",
+    "tr": "hayalet gibi/spekülatif",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "disséminierend",
+    "tr": "anlam saçarak/dağıtarak",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "pharmazeutisch",
+    "tr": "hem tedavi hem zehirleme işlevi gören",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "archi-originär",
+    "tr": "kökensel olmayan/köken öncesi",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "diskursanalytisch",
+    "tr": "söylem çözümlemeli",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "gouvernementalitätlich",
+    "tr": "yönetimselliğe ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "biopolitisch",
+    "tr": "biyopolitik",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "biomacht-ausübend",
+    "tr": "biyoiktidar kullanan",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "disziplinierend",
+    "tr": "disipline eden/düzene sokan",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "normalisierend",
+    "tr": "normalleştiren/norma uyduran",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "subjektivierend",
+    "tr": "özneleştiren",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "machtdurchzogen",
+    "tr": "güç ilişkilerince örülmüş",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "wissensgeordnet",
+    "tr": "bilgi düzenince organize edilmiş",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "heterotopisch",
+    "tr": "heterotopik/farklı yer niteliğinde",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "archäologisch-diskursiv",
+    "tr": "arkeolojik-söylemsel",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "genealogisch-kritisch",
+    "tr": "soykütüksel-eleştirel",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "epistematisch",
+    "tr": "epistematik/bilgi düzenine ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "disziplinargesellschaftlich",
+    "tr": "disiplin toplumuna ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "kontrollgesellschaftlich",
+    "tr": "kontrol toplumuna ait (Deleuze)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "pastoral",
+    "tr": "çobanca/pastoral iktidar biçimine ait (Foucault)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "souveränitätspolitisch",
+    "tr": "egemenlik siyaseti açısından",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "strafend-normierend",
+    "tr": "cezalandırıcı-normalleştirici",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "überwachend-kontrollierend",
+    "tr": "denetleyen-kontrol eden",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "selbsttechnologisch",
+    "tr": "öz-teknolojisine ait (Foucault)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "rhizomatisch",
+    "tr": "rizomatik/kök-ağ yapısında",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "arboreszent",
+    "tr": "ağaç-gibi/hiyerarşik (Deleuze/Guattari karşıtı)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "nomadologisch",
+    "tr": "göçebilimsel/nomadolojik",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "deterritorialisierend",
+    "tr": "yersiz yurtsuzlaştıran",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "reterritorialisierend",
+    "tr": "yeniden yurt edinen",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "schizoid-produktiv",
+    "tr": "şizoid-üretici (Deleuze/Guattari)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "molekular",
+    "tr": "moleküler/mikro düzeyde",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "molar",
+    "tr": "molar/makro yapıya ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "intensiv",
+    "tr": "yoğunluğa dayalı/intensif",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "extensiv",
+    "tr": "uzamsal/dışsal",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "virtuell-aktuell",
+    "tr": "virtüel-aktüel",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "ereignisphilosophisch",
+    "tr": "olay felsefesi açısından",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "differenzphilosophisch",
+    "tr": "fark felsefesi açısından",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "assemblagenartig",
+    "tr": "montaj/birleşim niteliğinde",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "desirierend",
+    "tr": "arzulayan/arzu üreten",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "antiödipisch",
+    "tr": "anti-Oedipus/freudo-marksizm karşıtı",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "kapitalistisch-kodierend",
+    "tr": "kapitalistçe kodlayan",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "strömungsartig",
+    "tr": "akış biçiminde",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "immanenzphilosophisch",
+    "tr": "immanens felsefesine ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "deleuzianisch",
+    "tr": "Deleuzecü/Deleuze'e ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "fregesisch",
+    "tr": "Fregeci/Frege'ye ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "russellianisch",
+    "tr": "Russelcı/Russell'a ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "wittgensteinianisch",
+    "tr": "Wittgenstein'cı",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "kripkeanisch",
+    "tr": "Kripkeci/Kripke'ye ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "quineanisch",
+    "tr": "Quineci/Quine'a ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "davidsonianisch",
+    "tr": "Davidson'a ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "dummettianisch",
+    "tr": "Dummett'e ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "extensional",
+    "tr": "uzlamlı/gönderge düzleminde",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "intensional",
+    "tr": "içlemsel/anlam düzleminde",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "hyperintensional",
+    "tr": "hiperintensiyonel/anlam ötesi",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "opak",
+    "tr": "anlamsal açıdan opak/geçirgen olmayan",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "transparent",
+    "tr": "anlamsal açıdan şeffaf",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "de dicto",
+    "tr": "söylem hakkında/de dicto",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "de re",
+    "tr": "şeyin kendisi hakkında/de re",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "modalisiert",
+    "tr": "kiplendirilmiş/modal",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "kontrafaktisch-konditional",
+    "tr": "karşı-olgusal koşul-tümceli",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "kausalkettlich",
+    "tr": "nedensel zincir boyunca",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "supervenienz-basiert",
+    "tr": "süperveniensa dayalı",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "reduktionistisch-eliminativ",
+    "tr": "indirgemeci-dışlayıcı",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "nicht-reduktionistisch-emergent",
+    "tr": "indirgemeyen-beliren",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "intertextuell-anspielungsreich",
+    "tr": "metinlerarası göndermelerle dolu",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "metatextuell",
+    "tr": "üstmetin düzeyinde",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "hypotextuell",
+    "tr": "alt-metin düzeyinde (kaynak metin)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "hypertextuell",
+    "tr": "üst-metin düzeyinde (kaynak metni dönüştüren)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "architextuell",
+    "tr": "tür/cins düzeyinde",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "paratextuell",
+    "tr": "yan-metin düzeyinde (başlık, ön söz)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "autodiegetisch",
+    "tr": "kendi hikâyesini anlatan (anlatıcı=karakter)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "homodiegetisch",
+    "tr": "anlatı evreninin içindeki anlatıcı",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "heterodiegetisch",
+    "tr": "anlatı dışı konumdaki anlatıcı",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "intradiegetisch",
+    "tr": "anlatının içindeki düzeyde",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "extradiegetisch",
+    "tr": "anlatı üst düzeyinde",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "metadiegetisch",
+    "tr": "iç anlatı düzeyinde",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "unzuverlässig erzählend",
+    "tr": "güvenilmez biçimde anlatan",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "auktorial",
+    "tr": "yazarsal/yazara ait anlatı perspektifi",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "figural",
+    "tr": "karakterin bakış açısından anlatan",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "personal",
+    "tr": "kişisel bakış açılı/iç odaklı anlatı",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "olympisch",
+    "tr": "her şeyi bilen anlatıcıya ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "neutraal-behaviouristisch",
+    "tr": "nötr davranışçı anlatı",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "erlebte-rede-artig",
+    "tr": "yaşanan-konuşmaya benzeyen",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "vestigial",
+    "tr": "kalıntı/atık/iz niteliğinde",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "rudimentär",
+    "tr": "temel/ilkel/henüz gelişmemiş",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "atavistisch",
+    "tr": "atavist/gerileme gösteren",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "anachronistisch",
+    "tr": "anakronistik/zamana uygunsuz",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "epigonal",
+    "tr": "büyük ustanın gölgesinde kalan",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "epochemachend",
+    "tr": "çağ açan/tarihî dönüm noktası",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "wegweisend-paradigmatisch",
+    "tr": "yol gösterici-paradigmatik",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "kanonisch-normativ",
+    "tr": "kanonik-normatif",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "subversiv-emanzipatorisch",
+    "tr": "yıkıcı-özgürleştirici",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "affirmativ-affizierend",
+    "tr": "olumlu-duygulandırıcı",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "ästhetisch-subversiv",
+    "tr": "estetik açıdan yıkıcı",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "utopisch-immanent",
+    "tr": "içkin ütopyacı",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "dystopisch-pessimistisch",
+    "tr": "distopik-kötümser",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "melancholisch-elegiach",
+    "tr": "melankolik-ağıt niteliğinde",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "erhabenhaft",
+    "tr": "yüce/aşkın güzellikte (Kant)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "das Erhabene ausdrückend",
+    "tr": "yüceyi ifade eden",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "abgrundtief",
+    "tr": "uçurum kadar derin",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "abyssisch",
+    "tr": "uçurumsal/dipsiz",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "labyrinthisch",
+    "tr": "labirentsel/karmaşık",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "fraktal-selbstähnlich",
+    "tr": "fraktal-öz-benzeşimli",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "palimpsesthafte",
+    "tr": "palimpsest benzeri",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "enigmatisch",
+    "tr": "bulmacalı/esrarengiz/enigmatik",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "hermetisch",
+    "tr": "hermetik/kapalı/gizli",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "esoterisch",
+    "tr": "ezoterik/gizli öğretiye ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "exoterisch",
+    "tr": "egzoterik/kamuya açık",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "apokryph",
+    "tr": "apokrif/gizli/sahte olduğu şüpheli",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "kanonisiert",
+    "tr": "kanona alınmış",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "nichtkanonisch-heterodox",
+    "tr": "kanonik olmayan-heterodoks",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "orthodoxly uninterpretierbar",
+    "tr": "geleneksel yoruma kapalı",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "polysem-schillernd",
+    "tr": "çok anlamlı-parıldayan",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "bedeutungsoffen",
+    "tr": "anlam açısından sonsuz yoruma açık",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "qua",
+    "tr": "sıfatıyla/olarak (Latince)",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "via",
+    "tr": "yoluyla/aracılığıyla (Latince)",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "pace",
+    "tr": "... e saygıyla aykırı olarak",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "passim",
+    "tr": "çeşitli yerlerde/dağınık biçimde",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "ibid.",
+    "tr": "aynı yerde (ibidem kısaltması)",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "loc. cit.",
+    "tr": "adı geçen yerde (loco citato)",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "op. cit.",
+    "tr": "adı geçen yapıtta (opere citato)",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "et al.",
+    "tr": "ve diğerleri (et alii)",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "cf.",
+    "tr": "karşılaştırınız (confer)",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "viz.",
+    "tr": "yani/adına (videlicet)",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "sc.",
+    "tr": "yani/kastedilen (scilicet)",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "sic",
+    "tr": "aynen böyle/metindeki hata kasıtlı değil",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "sic erat scriptum",
+    "tr": "aynen öyle yazılmıştı",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "inter alia",
+    "tr": "diğer şeylerin yanı sıra",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "inter se",
+    "tr": "kendi aralarında",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "pro rata",
+    "tr": "orantılı olarak/hissesine düşen ölçüde",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "pro forma",
+    "tr": "biçimsel olarak/şeklen",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "in situ",
+    "tr": "yerinde/bulunduğu yerde",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "in medias res",
+    "tr": "olayların ortasında/giriş yapmaksızın",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "ex cathedra",
+    "tr": "resmi makamdan/otoritesiyle konuşarak",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "ex officio",
+    "tr": "görevi gereği/makam gereği",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "ex tempore",
+    "tr": "hazırlıksız/doğaçlama",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "ad hoc",
+    "tr": "bu iş için/geçici/özgün",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "ad hominem",
+    "tr": "kişiye yönelik (argüman)",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "ad rem",
+    "tr": "konuya ilişkin/işin özüne ait",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "ad infinitum",
+    "tr": "sonsuz biçimde/sonsuza dek",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "ad nauseam",
+    "tr": "bıktırıncaya dek/mide bulandıracak ölçüde",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "ab initio",
+    "tr": "başlangıçtan itibaren",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "ab ovo",
+    "tr": "en başından/yumurtadan beri",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "in toto",
+    "tr": "bütünüyle/toplu hâlde",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "im Rekurs auf Hegel",
+    "tr": "Hegel'e dayanarak",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "im Anschluss an Heidegger",
+    "tr": "Heidegger'i izleyerek",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "in Auseinandersetzung mit Marx",
+    "tr": "Marx ile hesaplaşarak",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "in der Tradition Kants",
+    "tr": "Kant geleneğinde",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "mit Derrida gesprochen",
+    "tr": "Derrida'nın deyimiyle",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "um mit Foucault zu sprechen",
+    "tr": "Foucault'nun deyimiyle",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "dem hegelianischen Begriffe nach",
+    "tr": "Hegelci kavram çerçevesinde",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "im heideggerianischen Sinne",
+    "tr": "Heideggercü anlamda",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "im Habermasianischen Verständnis",
+    "tr": "Habermasçı anlayışla",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "in Abgrenzung von Rawls",
+    "tr": "Rawls'tan sınır çizerek",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "in kritischer Fortführung von",
+    "tr": "... ın eleştirel sürdürümü olarak",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "in produktiver Spannung zu",
+    "tr": "... la üretici bir gerilimde",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "in immanenter Kritik an",
+    "tr": "... a içkin eleştiriyle",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "in transzendenter Kritik an",
+    "tr": "... a aşkın eleştiriyle",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "als performativer Widerspruch",
+    "tr": "edimsel çelişki olarak",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "als selbstwiderlegend",
+    "tr": "kendini çürüten olarak",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "unter dem Vorbehalt der Fallibilität",
+    "tr": "yanılabilirlik çekincesiyle",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "unter dem Vorbehalt der Revisibilität",
+    "tr": "revize edilebilirlik çekincesiyle",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "vorbehaltlich weiterer Erkenntnisse",
+    "tr": "ileri bulgular saklı tutularak",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "bis auf Weiteres",
+    "tr": "şimdilik/sonraki gelişmelere kadar",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "im Zuge der Argumentation",
+    "tr": "argümantasyon sürecinde",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "im Verlaufe der Ausführungen",
+    "tr": "sunulan düşünceler sürecinde",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "der Argumentation folgend",
+    "tr": "argümantasyonu izleyerek",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "der Logik des Arguments entsprechend",
+    "tr": "argümanın mantığına uygun olarak",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "der inneren Logik des Textes nach",
+    "tr": "metnin iç mantığına göre",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "am Leitfaden des Begriffs",
+    "tr": "kavramın rehberliğinde",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "am Leitfaden der Unterscheidung",
+    "tr": "ayrımın rehberliğinde",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "in strikter begrifflicher Distinktion",
+    "tr": "sıkı kavramsal ayrım yaparak",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "unter Wahrung der terminologischen Präzision",
+    "tr": "terminolojik kesinliği koruyarak",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "ohne begriffliche Unschärfe",
+    "tr": "kavramsal bulanıklık olmaksızın",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "bei aller gebotenen Vorsicht",
+    "tr": "gereken tüm ihtiyatla birlikte",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "bei allem Vorbehalt",
+    "tr": "tüm çekincelere rağmen",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "bei aller Anerkennung von",
+    "tr": "... u tüm takdiriyle birlikte",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "unbeschadet der Tatsache, dass",
+    "tr": "... olgusu bir yana bırakılırsa",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "ungeachtet der Einwände",
+    "tr": "itirazlara rağmen/itirazları gözetmeksizin",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "jenseits der üblichen Deutungen",
+    "tr": "alışılmış yorumların ötesinde",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "diesseits metaphysischer Annahmen",
+    "tr": "metafizik varsayımların bu yanında",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "unterhalb der Theorieschwelle",
+    "tr": "teorik düzeyin altında",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "oberhalb der empirischen Basis",
+    "tr": "ampirik tabanın üzerinde",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "zwischen den Disziplinen angesiedelt",
+    "tr": "disiplinler arasında konumlanan",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "methodenkritisch",
+    "tr": "yöntem eleştirisini göz önünde bulundurarak",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "begriffsgeschichtlich sensibilisiert",
+    "tr": "kavram tarihi bilincinde olarak",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "diskurshistorisch informiert",
+    "tr": "söylem tarihi farkındalığıyla",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "ideologiekritisch geschärft",
+    "tr": "ideoloji eleştirisince bilenmiş",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "machtanalytisch sensibilisiert",
+    "tr": "güç analizi açısından duyarlılaştırılmış",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "reflexionstheoretisch eingeholt",
+    "tr": "yansıma teorisince kavranmış",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "selbstreflexiv gebrochen",
+    "tr": "öz-yansıma yoluyla kırılmış/sınandırılmış",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "dekonstruktiv gewendet",
+    "tr": "yapısökücü bir yöne çekilerek",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "genealogisch unterlaufen",
+    "tr": "soykütüksel olarak altı oyulmuş",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "archäologisch freigelegt",
+    "tr": "arkeolojik olarak açığa çıkarılmış",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "immanent transzendiert",
+    "tr": "içkinden aşılarak",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "negativ-dialektisch gewendet",
+    "tr": "negatif diyalektik yönüyle kavranmış",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "mikrologisch entfaltet",
+    "tr": "mikrolojik biçimde açılmış",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "im Modus der Aporie verharrend",
+    "tr": "apori modunda kalan",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "differenzphilosophisch expliziert",
+    "tr": "fark felsefesi açısından açıklanmış",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "rhizomatisch entgrenzt",
+    "tr": "rizomatik olarak sınırları aşılmış",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "performativ subvertiert",
+    "tr": "edimsel olarak yıkıma uğratılmış",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "intersektional verwoben",
+    "tr": "kesişimsel biçimde örülmüş",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "postfundamental gedacht",
+    "tr": "temel sonrası perspektiften düşünülmüş",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "postsäkular kontextualisiert",
+    "tr": "post-seküler bağlamda konumlandırılmış",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "mit lakonischer Präzision",
+    "tr": "özlü bir kesinlikle",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "mit apodiktischer Gewissheit",
+    "tr": "tartışmasız bir kesinlikle",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "in enigmatischer Kürze",
+    "tr": "bulmacalı bir kısalıkla",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "mit hermetischer Verdichtung",
+    "tr": "hermetik bir yoğunlaşmayla",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "in rhapsodischem Fluss",
+    "tr": "rapsodik bir akışla",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "mit elegischer Schwermut",
+    "tr": "ağıt niteliğinde bir hüzünle",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "in dionysischer Ekstase",
+    "tr": "Dionisik bir coşkuyla",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "mit apollinischer Klarheit",
+    "tr": "Apollon'ca bir netlikle",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "in sublime Erhabenheit",
+    "tr": "yüce bir aşkınlıkla",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "mit gnadenloser Ironie",
+    "tr": "amansız bir ironiyle",
+    "level": "C2",
+    "type": "adverb"
+  },
+  {
+    "de": "das Selbst",
+    "tr": "öz-benlik/kendilik",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Ich",
+    "tr": "ben/ego (felsefe)",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Nicht-Ich",
+    "tr": "ben-olmayan/ego-dışı (Fichte)",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Es",
+    "tr": "o/id (Freud terminoloji)",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Über-Ich",
+    "tr": "süper-ego/üst-ben (Freud)",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Man (Heidegger)",
+    "tr": "genel-insanlık/anonim özne",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Andere",
+    "tr": "öteki/başkası (felsefe)",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "der Andere",
+    "tr": "başkası/öteki (Lévinas)",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "die Anderen",
+    "tr": "diğerleri/başkaları (toplumsal)",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Dritte",
+    "tr": "üçüncü kişi/arabulucu (Lévinas)",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Jemeinige",
+    "tr": "her seferinde benim olan (Heidegger)",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Eigene",
+    "tr": "kendine ait olan/öze özgü",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Fremde",
+    "tr": "yabancı olan/öteki",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Unheimliche",
+    "tr": "tekinsiz/ürkütücü tanıdık (Freud)",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Imaginäre",
+    "tr": "imgesel/hayali olan (Lacan)",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Symbolische",
+    "tr": "simgesel olan (Lacan)",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Reale",
+    "tr": "gerçek olan (Lacan)",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Jouissance",
+    "tr": "jouissance/zevk-acı (Lacan)",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Begehren",
+    "tr": "arzu/talep (Lacan)",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Subjekt des Unbewussten",
+    "tr": "bilinçdışının öznesı (Lacan)",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "wir alle miteinander",
+    "tr": "hepimiz birlikte",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "einer wie der andere",
+    "tr": "biri diğeri gibi/ikisi de aynı",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "keiner von beiden",
+    "tr": "ikisinden de hiçbiri",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "jeder für sich und alle zusammen",
+    "tr": "herkes kendi başına ve hep birlikte",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "niemand sonst",
+    "tr": "başka kimse değil",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "niemand anders als",
+    "tr": "... dan başkası değil",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "nichts sonst",
+    "tr": "başka hiçbir şey",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "nichts weiter als",
+    "tr": "... dan başka hiçbir şey",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "alles und jedes",
+    "tr": "her şey ve her şey (pekiştirilmiş)",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "alles in allem",
+    "tr": "her şey bir arada",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "einer um den anderen",
+    "tr": "sıra sıra/biri ardından diğeri",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "eines nach dem anderen",
+    "tr": "biri bittikten sonra diğeri",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das eine wie das andere",
+    "tr": "biri kadar diğeri de",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "weder dieses noch jenes",
+    "tr": "ne bu ne o",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "sowohl dieses als auch jenes",
+    "tr": "hem bu hem o",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "manch einer",
+    "tr": "kimi zaman biri/bazı birisi",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "manch anderer",
+    "tr": "kimi başkaları",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "irgendein Einzelner",
+    "tr": "herhangi bir kişi/münferit biri",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "jeglicher Einzelne",
+    "tr": "her bir kişi tek tek",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "sämtliche Einzelne",
+    "tr": "tüm bireyler/her biri tek tek",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Sich-Selbst-Verstehen",
+    "tr": "kendini anlama/öz-anlama",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Sich-Selbst-Erschließen",
+    "tr": "kendini açma/ifşa",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Sich-Selbst-Konstituieren",
+    "tr": "kendini oluşturma",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Sich-Selbst-Überschreiten",
+    "tr": "kendini aşma",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Sich-Selbst-Erkennen",
+    "tr": "kendini tanıma",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Sich-Selbst-Befragen",
+    "tr": "kendini sorgulama",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Sich-Selbst-Infrage-Stellen",
+    "tr": "kendini sorgulamaya açma",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Sich-Selbst-Gegenüberstehen",
+    "tr": "kendisiyle yüzleşme",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Sich-Selbst-Entfremden",
+    "tr": "kendine yabancılaşma",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Sich-Selbst-Aufheben",
+    "tr": "kendini aşma/diyalektik olarak kaldırma",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Sich-Selbst-Transzendieren",
+    "tr": "kendini aşma/transandans",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Sich-Selbst-Verlieren",
+    "tr": "kendini yitirme",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Sich-Selbst-Finden",
+    "tr": "kendini bulma",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Sich-Selbst-Behaupten",
+    "tr": "kendini ortaya koyma/savunma",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Sich-Selbst-Verwirklichen",
+    "tr": "kendini gerçekleştirme",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "womit das Argument steht oder fällt",
+    "tr": "bunun üzerine argümanın ayakta durduğu ya da çöktüğü şey",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "worauf es letztlich hinausläuft",
+    "tr": "sonuçta buna çıkan şey",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "woraus sich der Widerspruch ergibt",
+    "tr": "çelişkinin ortaya çıktığı şey",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "worin das Proprium besteht",
+    "tr": "özgüllüğün içinde bulunduğu şey",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "worin die Differenz liegt",
+    "tr": "farkın yattığı yer",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "worum es eigentlich geht",
+    "tr": "asıl meselenin ne olduğu",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "worüber hinweggetäuscht wird",
+    "tr": "hakkında yanılsamaya düşülen şey",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "wonach die Analyse verlangt",
+    "tr": "analizin talep ettiği şey",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "woran die Theorie scheitert",
+    "tr": "teorinin başarısız olduğu nokta",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "wodurch die Paradoxie entsteht",
+    "tr": "paradoksun ortaya çıktığı mekanizma",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "womit nicht gemeint ist",
+    "tr": "kastedilmeyen şey",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "wovon abzugrenzen ist",
+    "tr": "sınır çizilmesi gereken şey",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "wozu die Analyse auffordert",
+    "tr": "analizin davet ettiği şey",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "wobei zu differenzieren ist",
+    "tr": "ayrım yapılması gereken şey",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "woraufhin das Argument zielt",
+    "tr": "argümanın hedeflediği şey",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "wer Augen hat zu sehen",
+    "tr": "gözü olan gören (İncil retorik)",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "wem es vergönnt ist",
+    "tr": "nasibine düşen/buna layık olan",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "dem es vergönnt war",
+    "tr": "bunu yaşamış olan/buna nail olan",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "was bleibt",
+    "tr": "geriye kalan/kalıcı olan (Hölderlin)",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "was gewesen ist",
+    "tr": "olmuş olan/geçmişin gerçekliği",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "was kommen wird",
+    "tr": "gelecek olan/gelmekte olan",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "was geschehen ist, lässt sich nicht ungeschehen machen",
+    "tr": "olmuş olan geri alınamaz",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "wer zuletzt lacht",
+    "tr": "en son gülen (deyim)",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "dem Letzten gehört das letzte Wort",
+    "tr": "son söz en sona kalmıştır",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "der Rest ist Schweigen",
+    "tr": "geri kalan sessizliktir (Shakespeare)",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "jedweder",
+    "tr": "her biri/hepsi (eski/yüksek edebi)",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "jedwede",
+    "tr": "her birisi (dişil, eski)",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "jedwedes",
+    "tr": "her şey (eşyansız, eski)",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "weiland",
+    "tr": "vaktiyle olan/merhum (eski)",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "dazumal",
+    "tr": "o vakitlerde/o günlerde (eski)",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "fürbass",
+    "tr": "daha ileri/ötede (arkaik)",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Weilchen",
+    "tr": "kısa süre/az vakit (edebi küçültme)",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "ein Jeglicher",
+    "tr": "her kişi (pekiştirilmiş, edebi)",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "eine Jegliche",
+    "tr": "her kadın/her biri (dişil, edebi)",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "ein Jegliches",
+    "tr": "her şey (eşyansız, edebi)",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "des Weiteren sei erwähnt",
+    "tr": "ayrıca şunu belirtmek gerekir",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "demzufolge sei festgestellt",
+    "tr": "buna göre tespit edilmiştir ki",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "ergo sei anzumerken",
+    "tr": "dolayısıyla şunu belirtmek gerekir",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "mithin bleibt zu konstatieren",
+    "tr": "bu nedenle şunu saptamak gerekir",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "sohin lässt sich folgern",
+    "tr": "bundan şu sonuç çıkmaktadır",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "die Werkimmanenz",
+    "tr": "esere özgünlük/metnin kendi içine kapalılığı",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "der hermeneutische Zirkel",
+    "tr": "hermenötik çember (Schleiermacher/Heidegger)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Überlieferung",
+    "tr": "aktarım/gelenek/rivayet",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Wirkungsgeschichte",
+    "tr": "etki tarihi/alımlanma tarihi (Gadamer)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "das Vorverständnis",
+    "tr": "ön-anlayış/ön-bilgi (hermenötik)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Applikation",
+    "tr": "uygulama/anlam yorumunun somutlaştırılması (Gadamer)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Sprachlichkeit",
+    "tr": "dilsellik/her şeyin dile bağımlılığı (Gadamer)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "der Überlieferungszusammenhang",
+    "tr": "aktarım bağlamı/gelenekle süreklilik",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Gadamersche Fusion",
+    "tr": "Gadamerci ufukların kaynaşması",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "das sprachliche Weltbild",
+    "tr": "dil aracılığıyla oluşan dünya imgesi",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Frege-Russell-Axiome",
+    "tr": "Frege-Russell aksiyomları",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Tarskische Semantik",
+    "tr": "Tarski semantiği",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Kripkesche Modallogik",
+    "tr": "Kripke modal mantığı",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die mögliche Welt",
+    "tr": "olası dünya (modal mantık)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die transworld identity",
+    "tr": "olası dünyalar arası kimlik",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die rigid designation",
+    "tr": "katı gönderme/sabit adlandırma (Kripke)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "der natürliche Artbegriff",
+    "tr": "doğal tür kavramı",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Supervenienz",
+    "tr": "süpervenieans/üst belirlenme",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die multiple Realisierbarkeit",
+    "tr": "çoklu gerçekleşebilirlik",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die physikalistische Supervenienz",
+    "tr": "fizikalist süpervenieans",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Qualia",
+    "tr": "qualia/öznel duyusal nitelikler",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "das Erklärungslücke",
+    "tr": "açıklama boşluğu (bilinç felsefesi)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "das hard problem of consciousness",
+    "tr": "bilincin zor problemi (Chalmers)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "der Zombie-Gedanke",
+    "tr": "felsefi zombi argümanı",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Inverted-Qualia-These",
+    "tr": "ters-qualia tezi",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die funktionale Äquivalenz",
+    "tr": "işlevsel eşdeğerlik",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "der Epiphänomenalismus",
+    "tr": "epifenomonalizm/zihnin nedensellik dışı olduğu görüş",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "der Interaktionismus",
+    "tr": "etkileşimcilik (zihin-beden)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "der Okkasionalismus",
+    "tr": "okaziyonalizm (Malebranche)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "der Parallelismus",
+    "tr": "paralelizm (Leibniz)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die prästabilierte Harmonie",
+    "tr": "önceden kurulmuş uyum (Leibniz)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Monadologie",
+    "tr": "monadoloji (Leibniz)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Monade",
+    "tr": "monad/tekil öz (Leibniz)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die windowless Monad",
+    "tr": "penceresiz monad (Leibniz)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Theodizee",
+    "tr": "teodise/Tanrı'nın kötülüğü neden izin verdiğinin açıklaması",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "das Leibnizsche Optimum",
+    "tr": "Leibniz'in en iyi olası dünya argümanı",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Spinozistische Substanz",
+    "tr": "Spinoza'nın tözü",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Attribute Gottes",
+    "tr": "Tanrı'nın nitelikleri (Spinoza)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "der Spinozistische Monismus",
+    "tr": "Spinoza'nın monizmi",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "der Deus sive natura",
+    "tr": "Tanrı ya da doğa (Spinoza)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Konatus",
+    "tr": "conatus/varlığını sürdürme çabası (Spinoza)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Affektenlehre",
+    "tr": "duygulanım öğretisi (Spinoza)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die intellektuelle Liebe Gottes",
+    "tr": "Tanrı'ya entelektüel sevgi (Spinoza)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Ewigkeit der Seele",
+    "tr": "ruhun sonsuzluğu (Spinoza)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "das Schopenhauer'sche Mitleid",
+    "tr": "Schopenhauer'in acıma/şefkat kavramı",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "der Wille zur Macht",
+    "tr": "güç istenci (Nietzsche)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "der Übermenschbegriff",
+    "tr": "üst-insan kavramı (Nietzsche)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die ewige Wiederkehr",
+    "tr": "ebedi dönüş (Nietzsche)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Genealogie",
+    "tr": "soykütük/köken araştırması (Nietzsche)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Transvaluation der Werte",
+    "tr": "değerlerin yeniden değerlendirilmesi (Nietzsche)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "der apollinisch-dionysische Dualismus",
+    "tr": "Apollon-Dionizos ikiliği (Nietzsche)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Ressentimentmoral",
+    "tr": "kırgınlık ahlakı (Nietzsche)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Herren- und Sklavenmoral",
+    "tr": "efendi ve köle ahlakı (Nietzsche)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Nihilismusdiagnose",
+    "tr": "nihilizm teşhisi (Nietzsche)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Überwindung des Nihilismus",
+    "tr": "nihilizmin aşılması",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "das Amor fati",
+    "tr": "kader sevgisi (Nietzsche)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "das große Mittagsstunde",
+    "tr": "büyük öğle vakti/farkındalık anı (Nietzsche)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Selbstüberwindung",
+    "tr": "kendini aşma (Nietzsche)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Verwindung der Metaphysik",
+    "tr": "metafiziğin geçilmesi (Heidegger/Vattimo)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Überwindung der Metaphysik",
+    "tr": "metafiziğin aşılması (Heidegger)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Seinsvergessenheit",
+    "tr": "varlığın unutulmuşluğu (Heidegger)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Seinsfrage",
+    "tr": "varlık sorusu (Heidegger)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Fundamentalontologie",
+    "tr": "temel ontoloji (Heidegger)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Kehre",
+    "tr": "dönüş/kırılma (geç Heidegger)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "das Ereignis",
+    "tr": "olay/varlığın kendini vermesi (geç Heidegger)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Lichtung",
+    "tr": "açıklık/aydınlık alan (Heidegger)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "das Geviert",
+    "tr": "dörtlü (yer-gök-ölümlüler-tanrılar, Heidegger)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "die Gelassenheit",
+    "tr": "bırakış/teslim oluş/huzur (Heidegger)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "das Wohnen",
+    "tr": "ikamet/yaşama/ev tutma (Heidegger)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "gadamerianisch",
+    "tr": "Gadamercı/Gadamer'e ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "schleiermacharianisch",
+    "tr": "Schleiermacher'e ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "diltheyianisch",
+    "tr": "Dilthey'a ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "ricoeurianisch",
+    "tr": "Ricoeur'a ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "bultmannianisch",
+    "tr": "Bultmann'a ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "spinozistisch",
+    "tr": "Spinozacı/Spinoza'ya ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "leibnizianisch",
+    "tr": "Leibnizci/Leibniz'e ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "schopenhauerschich",
+    "tr": "Schopenhauer'e ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "nietzscheanisch",
+    "tr": "Nietzscheci",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "kierkegaardianisch",
+    "tr": "Kierkegaard'a ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "sartreianisch",
+    "tr": "Sartrecı/Sartre'a ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "merleau-pontyanisch",
+    "tr": "Merleau-Ponty'ye ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "levinasianisch",
+    "tr": "Lévinas'a ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "rortyianisch",
+    "tr": "Rorty'ye ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "davidsonian",
+    "tr": "Davidson'a ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "sellarsianisch",
+    "tr": "Sellars'a ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "brandomianisch",
+    "tr": "Brandom'a ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "mcdowellianisch",
+    "tr": "McDowell'a ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "chalmersianisch",
+    "tr": "Chalmers'a ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "nagel'sch",
+    "tr": "Nagel'e ait (Thomas Nagel)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "wittgensteinsch",
+    "tr": "Wittgenstein'ca",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "austinianisch",
+    "tr": "Austin'e ait (J.L. Austin)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "searleanisch",
+    "tr": "Searle'a ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "griceanisch",
+    "tr": "Grice'a ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "sperber-wilsonianisch",
+    "tr": "Sperber-Wilson'a ait (Alaka teorisi)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "chomskyanisch",
+    "tr": "Chomsky'ye ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "pinkerianisch",
+    "tr": "Pinker'a ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "jakobsonianisch",
+    "tr": "Jakobson'a ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "saussureanisch",
+    "tr": "Saussure'a ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "barth'sch",
+    "tr": "Barthes'a ait (Roland Barthes)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "kristevianisch",
+    "tr": "Kristeva'ya ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "irigarayanisch",
+    "tr": "Irigaray'a ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "cixousanisch",
+    "tr": "Cixous'ya ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "spivakianisch",
+    "tr": "Spivak'a ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "bhabhanisch",
+    "tr": "Bhabha'ya ait (Homi Bhabha)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "said'ianisch",
+    "tr": "Said'e ait (Edward Said)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "fanon'sch",
+    "tr": "Fanon'a ait (Frantz Fanon)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "memmi'anisch",
+    "tr": "Memmi'ye ait (Albert Memmi)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "mbembe'ianisch",
+    "tr": "Mbembe'ye ait (Achille Mbembe)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "agambenianisch",
+    "tr": "Agamben'e ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "badiouianisch",
+    "tr": "Badiou'ya ait (Alain Badiou)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "zizekianisch",
+    "tr": "Žižek'e ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "negri'anisch",
+    "tr": "Negri'ye ait (Antonio Negri)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "hardtianisch",
+    "tr": "Hardt'a ait (Michael Hardt)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "rancièreianisch",
+    "tr": "Rancière'e ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "mouffe'ianisch",
+    "tr": "Mouffe'a ait (Chantal Mouffe)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "laclauianisch",
+    "tr": "Laclau'ya ait (Ernesto Laclau)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "honnethanisch",
+    "tr": "Honneth'e ait (Axel Honneth)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "fraserianisch",
+    "tr": "Fraser'a ait (Nancy Fraser)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "youngianisch",
+    "tr": "Young'a ait (Iris Marion Young)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "leibkörperlich",
+    "tr": "bedensel/cisimsel (Leib/Körper ayrımı)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "interleiblich",
+    "tr": "bedenlerarası/intercorporeal",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "fleischlich-phänomenal",
+    "tr": "bedensel-fenomenal",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "kinästhetisch",
+    "tr": "kinestetik/hareket duyusuna ait",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "prä-reflexiv",
+    "tr": "yansıma öncesi/ön-refleksif",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "anteprädikativ",
+    "tr": "yüklem öncesi",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "passiv-synthetisch",
+    "tr": "pasif-sentetik (Husserl)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "aktiv-synthetisch",
+    "tr": "aktif-sentetik (Husserl)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "eidetisch",
+    "tr": "özsel/eidotik (Husserl)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "transzendental-phänomenologisch",
+    "tr": "aşkınsal-fenomenolojik",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "konstitutiv-intentional",
+    "tr": "kurucu-yönelimsel",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "apodiktisch evidentisch",
+    "tr": "zorunlu açıklıkla kanıtlanmış",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "eidetic-variational",
+    "tr": "özsel değişim yöntemli",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "genesisch",
+    "tr": "genetik/köken araştırmacı (Husserl geç dönemi)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "statisch-phänomenologisch",
+    "tr": "statik fenomenolojik",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "genetisch-phänomenologisch",
+    "tr": "genetik fenomenolojik",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "intersubjektiv-konstituiert",
+    "tr": "öznelerarasıca oluşturulmuş",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "fremderfahrend",
+    "tr": "başkasını deneyimleyen",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "einfühlend",
+    "tr": "empatiyle katan/einfühlung yapan",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "analogisierend",
+    "tr": "analoji yoluyla uzanan",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "paarend",
+    "tr": "çiftleştiren/eşleştiren (pasif sentez)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "sedimentiert",
+    "tr": "çökelmiş/tortullaşmış (anlam)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "reaktivierend",
+    "tr": "yeniden canlandıran/reaktive eden",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "ursprungsstiftend",
+    "tr": "köken kurucu",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "ursprungsgebend",
+    "tr": "köken verici",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "sinngebend",
+    "tr": "anlam verici/anlam kurucu",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "weltbegründend",
+    "tr": "dünya kurucu",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "selbstzeitigend",
+    "tr": "kendini zamansallaştıran",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "lebendige-Gegenwart-artig",
+    "tr": "canlı-şimdi niteliğinde (Husserl)",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "retentional-protentional",
+    "tr": "tutum-beklenti yapısında",
+    "level": "C2",
+    "type": "adjective"
+  },
+  {
+    "de": "das Bauen",
+    "tr": "inşa etme/yapma (Heidegger)",
+    "level": "C2",
+    "type": "noun"
+  },
+  {
+    "de": "das Worumwillen",
+    "tr": "uğruna olan şey/nihai amaç (Heidegger)",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Womit",
+    "tr": "bununla/araç olarak kullanılan (Heidegger)",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Wozu",
+    "tr": "ne için/amaç niteliğinde olan (Heidegger)",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Wobei",
+    "tr": "yanında olunulan şey/bağlam (Heidegger)",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Worum",
+    "tr": "etrafında dönen şey (Heidegger)",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Woraus",
+    "tr": "kaynak/neden yapıldığı (Heidegger)",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Woraufhin",
+    "tr": "yönelinen şey/hedef (Heidegger)",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Worüber",
+    "tr": "üzerine konuşulan şey (söylem)",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Wogegen",
+    "tr": "karşı olunulan şey",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Wohin",
+    "tr": "nereye/yönelim (Heidegger)",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Woher",
+    "tr": "nereden/köken (Heidegger)",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Inwieweit",
+    "tr": "ne ölçüde/hangi bakımdan",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Inwiefern",
+    "tr": "ne açıdan/hangi anlamda",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Wiefern",
+    "tr": "nasıl bir oranda/ne ölçüde (arkaik)",
+    "level": "C2",
+    "type": "pronoun"
+  },
+  {
+    "de": "das Sofern",
+    "tr": "ne kadarıyla/... olduğu müddetçe",
+    "level": "C2",
+    "type": "pronoun"
+  }
+]

@@ -1,0 +1,4262 @@
+[
+  {
+    "de": "die Phänomenologie",
+    "tr": "fenomenoloji/görüngübilim",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Dekonstruktion",
+    "tr": "yapısöküm/dekonstruksiyon",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Logozentrismus",
+    "tr": "logosentrizm/söze merkezi değer verme",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Anthropozentrismus",
+    "tr": "insan merkezcilik",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Nihilismus",
+    "tr": "nihilizm/hiççilik",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Relativismus",
+    "tr": "görecilik/rölativizm",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Essentialismus",
+    "tr": "özcülük/esansiyalizm",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Konstruktivismus",
+    "tr": "yapılandırmacılık/konstrüktivizm",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Intersubjektivität",
+    "tr": "öznelerarasılık/intersubjektivite",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Aporie",
+    "tr": "çıkmaz/apori/çözümsüzlük",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "das Apriori",
+    "tr": "önsel bilgi/a priori",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Kontrafaktizität",
+    "tr": "karşı-olgusallık",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Teleologie",
+    "tr": "erekbilim/teleoloji",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Finalität",
+    "tr": "ereksellik/nihai amaç",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Kausalität",
+    "tr": "nedensellik/sebebiyet",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Korrelation",
+    "tr": "korelasyon/bağıntı",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Determination",
+    "tr": "belirlenim/determinasyon",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Kontingenz",
+    "tr": "olumsallık/rastlantısallık",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Transzendenz",
+    "tr": "aşkınlık/transandans",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Immanenz",
+    "tr": "içkinlik/immanens",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Hegemonie",
+    "tr": "hegemonya/baskın güç",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Geopolitik",
+    "tr": "jeopolitik",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Nationalismus",
+    "tr": "milliyetçilik",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Kosmopolitismus",
+    "tr": "kozmopolitanizm",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Populismus",
+    "tr": "popülizm",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Demagogie",
+    "tr": "demagoji/kışkırtma sanatı",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Autoritarismus",
+    "tr": "otoritarizm",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Totalitarismus",
+    "tr": "totalitarizm",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Despotismus",
+    "tr": "despotizm/baskıcı yönetim",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Oligarchie",
+    "tr": "oligarşi",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Theokratie",
+    "tr": "teokrasi",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Anarchie",
+    "tr": "anarşi",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Subsidiarität",
+    "tr": "yerindenlik ilkesi/subsidiyarite",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Gewaltentrias",
+    "tr": "üçlü kuvvetler ayrılığı",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Volkssouveränität",
+    "tr": "halk egemenliği",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Gesellschaftsvertrag",
+    "tr": "toplum sözleşmesi",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Zivilgesellschaft",
+    "tr": "sivil toplum",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "das Machtgefüge",
+    "tr": "iktidar yapısı/güç dengesi",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Machtelite",
+    "tr": "iktidar seçkini/güç odakları",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Diskurs",
+    "tr": "söylem/kamusal tartışma",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Rechtsphilosophie",
+    "tr": "hukuk felsefesi",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Naturrechtslehre",
+    "tr": "doğal hukuk öğretisi",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Rechtspositivismus",
+    "tr": "hukuki pozitivizm",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Normenhierarchie",
+    "tr": "norm hiyerarşisi",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Analogieschluss",
+    "tr": "analoji yoluyla çıkarım",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Ermessensspielraum",
+    "tr": "takdir yetkisi/hareket alanı",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Verhältnismäßigkeit",
+    "tr": "orantılılık ilkesi",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "das Übermaßverbot",
+    "tr": "aşırılık yasağı",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Grundsatz",
+    "tr": "temel ilke/prensip",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Rechtsdogmatik",
+    "tr": "hukuk dogmatiği",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Billigkeit",
+    "tr": "hakkaniyet",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "das Treu und Glauben",
+    "tr": "iyi niyet ilkesi",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Rechtssicherheit",
+    "tr": "hukuki kesinlik/güven",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Rechtslücke",
+    "tr": "hukuki boşluk",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Rechtsfortbildung",
+    "tr": "hukukun geliştirilmesi",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Präzedenzfall",
+    "tr": "emsal/içtihat yaratan dava",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Haftung",
+    "tr": "sorumluluk/mesuliyet",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Schuld",
+    "tr": "suç/kusur/borç",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Vorsatz",
+    "tr": "kasıt/niyet",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Fahrlässigkeit",
+    "tr": "ihmal/dikkatsizlik",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Deixis",
+    "tr": "gösterim/deiksis",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Referenz",
+    "tr": "gönderge/referans",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Prädikation",
+    "tr": "yükleme/predikat oluşturma",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Proposition",
+    "tr": "önerme/preposisyon",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Sprechakt",
+    "tr": "söz edimi",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Perlokution",
+    "tr": "perloküsyon/söylemin dinleyicideki etkisi",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Illokution",
+    "tr": "illoküsyon/söylemin amacı",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Lokution",
+    "tr": "loküsyon/ifade edilen şey",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Implikatur",
+    "tr": "ima edilen anlam/implikatur",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Präsupposition",
+    "tr": "ön kabul/önsayıltı",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Kohäsion",
+    "tr": "metinsel bağlantı/kohezyon",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Textkohärenz",
+    "tr": "metin tutarlılığı",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Intertextualität",
+    "tr": "metinlerarasılık",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Polysemie",
+    "tr": "çok anlamlılık/polisemi",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Homonymie",
+    "tr": "sesteşlik/homonimi",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Synonymie",
+    "tr": "eş anlamlılık/sinonomi",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Antonymie",
+    "tr": "karşıt anlamlılık",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Konnotation",
+    "tr": "çağrışım/yan anlam",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Denotation",
+    "tr": "düzanlam/temel anlam",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Diskursmarker",
+    "tr": "söylem işaretçisi",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "das Habitus",
+    "tr": "habitüs/kalıpsal davranış biçimi",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "das Kapital",
+    "tr": "sermaye (Bourdieu anlamında)",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "das soziale Feld",
+    "tr": "sosyal alan (Bourdieu)",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Distinktion",
+    "tr": "ayrım/beğeni farklılığı",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Reproduktion",
+    "tr": "yeniden üretim",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Akkulturation",
+    "tr": "kültürlenme/akültürasyon",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Assimilation",
+    "tr": "asimilasyon/özümseme",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Hybridität",
+    "tr": "melez kimlik/hibridite",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Transkulturalität",
+    "tr": "kültürötesi/transkültüralite",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Multikulturalismus",
+    "tr": "çok kültürlülük",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Intersektionalität",
+    "tr": "kesişimsellik",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Othering-Prozess",
+    "tr": "ötekileştirme süreci",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Stigmatisierung",
+    "tr": "damgalama/stigmatizasyon",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Diskriminierung",
+    "tr": "ayrımcılık",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der institutionelle Rassismus",
+    "tr": "kurumsal ırkçılık",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die strukturelle Gewalt",
+    "tr": "yapısal şiddet",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die symbolische Gewalt",
+    "tr": "simgesel şiddet (Bourdieu)",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der kulturelle Imperialismus",
+    "tr": "kültürel emperyalizm",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Kolonialisierung",
+    "tr": "sömürgeleştirme/kolonizasyon",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Transdiagnostik",
+    "tr": "tanıötesi yaklaşım",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Komorbidität",
+    "tr": "eş tanı/komorbidite",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Ätiologie",
+    "tr": "hastalık etiyolojisi/neden araştırması",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Pathogenese",
+    "tr": "hastalık oluşumu/patogenez",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Prognose",
+    "tr": "prognoz/gelecek tahmini",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Remission",
+    "tr": "remisyon/belirtilerin geçici yatışması",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Rückfall",
+    "tr": "nüksetme/geri dönüş",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Chronifizierung",
+    "tr": "kronikleşme",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "das Biopsychosoziale Modell",
+    "tr": "biyopsikososyal model",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Neurobiologie",
+    "tr": "nörobiyoloji",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Epigenetik",
+    "tr": "epigenetik",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Affektregulation",
+    "tr": "duygu düzenleme",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Mentalisierung",
+    "tr": "zihinselleştirme/mentalizasyon",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Bindungstheorie",
+    "tr": "bağlanma kuramı",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "das Bindungsmuster",
+    "tr": "bağlanma örüntüsü",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Dissoziation",
+    "tr": "disosiyasyon/ayrışma",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Spaltung",
+    "tr": "bölünme/yarılma (psikoloji)",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Übertragung",
+    "tr": "aktarım/transferans",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Gegenübertragung",
+    "tr": "karşı aktarım/kontrtransferans",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Widerstand",
+    "tr": "direnç/direniş (psikanaliz)",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Akkumulation",
+    "tr": "birikim/akümülasyon",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Reproduktion des Kapitals",
+    "tr": "sermayenin yeniden üretimi",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Mehrwertproduktion",
+    "tr": "artı değer üretimi",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Entfremdung",
+    "tr": "yabancılaşma (Marx)",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Kommodifizierung",
+    "tr": "metalaştırma",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Finanzialisierung",
+    "tr": "finansallaşma",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Prekarisierung",
+    "tr": "güvencesizleşme",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Deregulierung",
+    "tr": "kuralsızlaştırma/serbestleştirme",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Liberalisierung",
+    "tr": "liberalleşme",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Rekommodifizierung",
+    "tr": "yeniden metalaştırma",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Dekommodifizierung",
+    "tr": "metalaştırmadan çıkarma",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Austerität",
+    "tr": "kemer sıkma politikası",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Sparmaßnahme",
+    "tr": "tasarruf tedbiri",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Haushaltszwang",
+    "tr": "bütçe kısıtlaması",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die fiskalische Kontraktion",
+    "tr": "mali daralma",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Neoliberalisierung",
+    "tr": "neoliberalleşme",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Finanzmarktkapitalismus",
+    "tr": "finans piyasası kapitalizmi",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Globalisierungsskepsis",
+    "tr": "küreselleşme şüpheciliği",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Deglobalisierung",
+    "tr": "küreselleşmenin geri dönüşü",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Multipolarität",
+    "tr": "çok kutupluluk",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Mimesis",
+    "tr": "mimesis/taklit",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Katharsis",
+    "tr": "katarsis/arınma",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Sublimierung",
+    "tr": "yüceltme/arıtma",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Verfremdung",
+    "tr": "yabancılaştırma (Brecht)",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "das epische Theater",
+    "tr": "epik tiyatro",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Verfremdungseffekt",
+    "tr": "yabancılaştırma etkisi",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Polyphonie",
+    "tr": "çokseslilik (Bahtin)",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Dialogizität",
+    "tr": "diyalojizm/çok seslilik",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Stream of Consciousness",
+    "tr": "bilinç akışı",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die erlebte Rede",
+    "tr": "yaşanan konuşma/serbest dolaylı anlatım",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der unzuverlässige Erzähler",
+    "tr": "güvenilmez anlatıcı",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die narrative Perspektive",
+    "tr": "anlatı perspektifi",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "das Metafiktion",
+    "tr": "metakurgu",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Palimpsest",
+    "tr": "palimpsest/üstüne yeniden yazılmış metin",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Kanon",
+    "tr": "kanon/referans eserler bütünü",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die literarische Moderne",
+    "tr": "edebi modernizm",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Avantgarde",
+    "tr": "avangard akım",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Postmoderne",
+    "tr": "postmodernizm",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Wissenschaftstheorie",
+    "tr": "bilim felsefesi",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Falsifizierbarkeit",
+    "tr": "yanlışlanabilirlik (Popper)",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Verifikation",
+    "tr": "doğrulama",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Falsifikation",
+    "tr": "yanlışlama",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Paradigmenwechsel",
+    "tr": "paradigma kayması (Kuhn)",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die wissenschaftliche Revolution",
+    "tr": "bilimsel devrim",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Normalwissenschaft",
+    "tr": "normal bilim (Kuhn)",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die wissenschaftliche Gemeinschaft",
+    "tr": "bilim topluluğu",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Forschungslakatosian",
+    "tr": "araştırma programı (Lakatos)",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "das Forschungsprogramm",
+    "tr": "araştırma programı",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Unterbestimmtheit",
+    "tr": "yetersiz belirlenme (Quine)",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Theorieladenheit",
+    "tr": "teori yüklülük (gözlemler)",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Holismus",
+    "tr": "bütüncülük/holizm",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die wissenschaftliche Erklärung",
+    "tr": "bilimsel açıklama",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Kausalerklärung",
+    "tr": "nedensel açıklama",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Teleologische Erklärung",
+    "tr": "ereksel açıklama",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Reduktion",
+    "tr": "indirgeme/redüksiyon",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Emergenz",
+    "tr": "ortaya çıkış/beliriş",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Komplexitätstheorie",
+    "tr": "karmaşıklık teorisi",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "das Chaostheorie",
+    "tr": "kaos teorisi",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Pathosformel",
+    "tr": "pathos formülü (Warburg)",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "das Ressentiment",
+    "tr": "kırgınlık/içten içe öfke (Nietzsche)",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Zeitgeist",
+    "tr": "dönemin ruhu/zaman ruhu",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Weltanschauung",
+    "tr": "dünya görüşü/ideoloji",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "das Mentalitätsbild",
+    "tr": "zihniyet haritası",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Mentalität",
+    "tr": "zihniyet/düşünce yapısı",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "das kollektive Gedächtnis",
+    "tr": "kolektif bellek",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "das kulturelle Gedächtnis",
+    "tr": "kültürel bellek",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Erinnerungskultur",
+    "tr": "anma kültürü/bellek kültürü",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Erinnerungsort",
+    "tr": "bellek mekânı/anı yeri",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Kontingenzbewältigung",
+    "tr": "olumsallıkla başa çıkma",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Sinnstiftung",
+    "tr": "anlam yaratma/anlam verme",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Sinnhorizont",
+    "tr": "anlam ufku",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Lebensform",
+    "tr": "yaşam biçimi",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Praxis",
+    "tr": "pratik/eylem/uygulama (felsefe)",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Poiesis",
+    "tr": "yaratım/yapım (Aristoteles)",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Theoria",
+    "tr": "kuramsal düşünce (Aristoteles)",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "das Ethos",
+    "tr": "ethos/ahlaki karakter",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Logos",
+    "tr": "logos/akıl/söz",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "das Pathos",
+    "tr": "pathos/duygu/acı",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "aporetisch",
+    "tr": "çözümsüz/aporodik",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "äquivok",
+    "tr": "çift anlamlı/muğlak",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "univok",
+    "tr": "tek anlamlı/berrak",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "analogisch",
+    "tr": "analojik/analoji yoluyla",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "apodiktisch",
+    "tr": "zorunlu doğru/tartışmasız kesin",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "assertorisch",
+    "tr": "olgusal/iddia edilen",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "problematisch",
+    "tr": "olanaklı/sorunlu",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "kontrafaktisch",
+    "tr": "karşı-olgusal",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "kontradiktorisch",
+    "tr": "çelişik/birbiriyle çelişen",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "konträr",
+    "tr": "karşıt/zıt",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "subaltern",
+    "tr": "alt sınıf/tabi durumda olan",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "subversiv",
+    "tr": "yıkıcı/alt üst edici",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "immanent",
+    "tr": "içkin/kendinden kaynaklanan",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "transzendent",
+    "tr": "aşkın/sınırları aşan",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "immanentistisch",
+    "tr": "içkinlik temelli",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "transzendentalistisch",
+    "tr": "transandantalist",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "noumenal",
+    "tr": "numenal/akılla kavranabilen (Kant)",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "phänomenal",
+    "tr": "fenomenal/duyularla algılanan",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "kategorial",
+    "tr": "kategorisel/kategorilere ait",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "propositional",
+    "tr": "önermesel/önermelerden oluşan",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "hegemonial",
+    "tr": "hegemonik/baskın iktidar niteliğinde",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "postkolonial",
+    "tr": "postkolonyal/sömürge sonrası",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "dekolonial",
+    "tr": "dekoloniyal/sömürgecilik karşıtı",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "neoimperialistisch",
+    "tr": "neoemperyalist",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "postimperialistisch",
+    "tr": "emperyalizm sonrası",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "neoliberal",
+    "tr": "neoliberal",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "ordoliberal",
+    "tr": "ordoliberal (Alman liberalizmi)",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "sozialdemokratisch",
+    "tr": "sosyal demokrat",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "libertär",
+    "tr": "libertaryen/özgürlükçü",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "kommunitaristisch",
+    "tr": "toplulukçu/komünitaryan",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "republikanisch",
+    "tr": "cumhuriyetçi",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "deliberativ",
+    "tr": "müzakereci/tartışmacı",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "partizipativ",
+    "tr": "katılımcı",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "repräsentativ",
+    "tr": "temsili",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "plebiszitär",
+    "tr": "plebisiter/doğrudan halk oylamasına dayalı",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "klientelistisch",
+    "tr": "klientelist/kayırmacı",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "korporatistisch",
+    "tr": "korporatist/meslek kuruluşlarına dayalı",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "technokratisch",
+    "tr": "teknokratik/teknik uzmanlığa dayalı",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "bürokratisch",
+    "tr": "bürokratik",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "patrimonialistisch",
+    "tr": "patrimonyalist/geleneksel güce dayalı",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "derogatorisch",
+    "tr": "derogatif/yürürlükten kaldırıcı",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "lex specialis",
+    "tr": "özel kural niteliğinde",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "lex generalis",
+    "tr": "genel kural niteliğinde",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "konstitutiv",
+    "tr": "kurucu/oluşturucu",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "deklaratorisch",
+    "tr": "bildirimsel/tespit edici",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "dispositivisch",
+    "tr": "hukuki tasarrufa açık/yoruma açık",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "kogent",
+    "tr": "emredici/zorunlu (hukuk)",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "akkusatorisch",
+    "tr": "itham sistemine dayalı",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "inquisitorisch",
+    "tr": "sorgulama sistemine dayalı",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "präventiv",
+    "tr": "önleyici/koruyucu",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "repressiv",
+    "tr": "bastırıcı/cezalandırıcı",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "pönologisch",
+    "tr": "cezayla ilgili/penolojik",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "viktimologisch",
+    "tr": "mağdur odaklı/viktimolojik",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "kriminologisch",
+    "tr": "kriminolojik/suç bilimsel",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "rechtssoziologisch",
+    "tr": "hukuk sosyolojisi açısından",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "rechtspolitisch",
+    "tr": "hukuk politikası açısından",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "rechtsdogmatisch",
+    "tr": "hukuk dogmatiği açısından",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "rechtsvergleichend",
+    "tr": "karşılaştırmalı hukuk niteliğinde",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "gewohnheitsrechtlich",
+    "tr": "örf ve adet hukukuna dayalı",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "völkerrechtlich",
+    "tr": "uluslararası hukuka ait",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "deiktisch",
+    "tr": "gösterimsel/deiktik",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "anaphorisch",
+    "tr": "önceki ifadeye gönderge yapan",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "kataphorisch",
+    "tr": "sonraki ifadeye gönderge yapan",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "phänomenologisch",
+    "tr": "fenomenolojik",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "hermeneutisch",
+    "tr": "hermenötik/yorumbilimsel",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "dialogisch",
+    "tr": "diyalojik/karşılıklı",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "monologisch",
+    "tr": "monolojik/tek sesli",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "polyphon",
+    "tr": "çok sesli/polifonik",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "heteroglossisch",
+    "tr": "heteroloşik/çok dilli",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "ideologisch konnotiert",
+    "tr": "ideolojik çağrışım taşıyan",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "euphemistisch",
+    "tr": "örtmeceli/yumuşatılmış",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "zynisch",
+    "tr": "alaycı/sinik",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "lakonisch",
+    "tr": "veciz/az sözlü/kısa ve öz",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "parataktisch",
+    "tr": "sıralı tümcelerden oluşan",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "hypotaktisch",
+    "tr": "alt bağımlı tümcelerden oluşan",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "elliptisch",
+    "tr": "eksiltili/eliptik",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "pleonastisch",
+    "tr": "gereksiz yineleme içeren/pleönastik",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "tautologisch",
+    "tr": "tötolojik/söylenenin aynısını söyleyen",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "paradoxal",
+    "tr": "paradoksal/çelişkili görünen",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "oxymorisch",
+    "tr": "oksimorik/zıt kavramları bir araya getiren",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "psychodynamisch",
+    "tr": "psikodinamik",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "tiefenpsychologisch",
+    "tr": "derinlik psikolojisine ait",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "behavioristisch",
+    "tr": "davranışçı/behaviorist",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "kognitivistisch",
+    "tr": "bilişselci/kognitivist",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "humanistisch",
+    "tr": "hümanist/insancıl",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "existenziell",
+    "tr": "varoluşsal/egzistansiyel",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "systemisch",
+    "tr": "sistemik/sistem odaklı",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "bindungstheoretisch",
+    "tr": "bağlanma kuramına ait",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "traumatologisch",
+    "tr": "travmatolojik",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "neurowissenschaftlich",
+    "tr": "nörolojik bilim açısından",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "epigenetisch",
+    "tr": "epigenetik",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "biopsychosozial",
+    "tr": "biyopsikososyal",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "ätiologisch",
+    "tr": "etiyolojik/nedensel",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "nosologisch",
+    "tr": "hastalık sınıflamasına ait",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "phänomenologisch-deskriptiv",
+    "tr": "tanımlayıcı fenomenolojik",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "therapeutisch indiziert",
+    "tr": "terapötik açıdan gerekli",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "kontraindiziert",
+    "tr": "kontrendike/kullanımı sakıncalı",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "prognostisch",
+    "tr": "prognostik/ileriye yönelik",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "prädiktiv",
+    "tr": "tahmin edici/öngörücü",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "präventiv-therapeutisch",
+    "tr": "önleyici-terapötik",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "mimetisch",
+    "tr": "mimetik/taklide dayalı",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "kathatisch",
+    "tr": "katartik/arındırıcı",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "avantgardistisch",
+    "tr": "avangardist/öncü",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "neoklassizistisch",
+    "tr": "neoklasisist",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "expressionistisch",
+    "tr": "dışavurumcu/ekspresyonist",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "impressionistisch",
+    "tr": "izlenimci/empresyonist",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "surrealistisch",
+    "tr": "gerçeküstücü/sürrealist",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "dadaistisch",
+    "tr": "dadaist",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "konstruktivistisch",
+    "tr": "konstrüktivist",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "konzeptualistisch",
+    "tr": "kavramsal sanat anlayışına ait",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "postmodern",
+    "tr": "postmodern",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "metafiktional",
+    "tr": "metakurgusal",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "intermedial",
+    "tr": "araçlararası/intermediyal",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "performativ",
+    "tr": "performatif/edimsel",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "installatif",
+    "tr": "enstalasyon niteliğinde",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "multimedial",
+    "tr": "çok ortamlı/multimedya",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "transmedial",
+    "tr": "ortamötesi/transmedya",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "partizipatorisch",
+    "tr": "katılımcı/izleyiciyi dahil eden",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "ephemer",
+    "tr": "geçici/gelip geçici",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "transgenerational",
+    "tr": "kuşakötesi/nesiller arası",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "intersektional",
+    "tr": "kesişimsel/kesişimcilik",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "heteronormativ",
+    "tr": "heteronormatif",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "cisnormativ",
+    "tr": "sisnormatif",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "androzentrischer",
+    "tr": "erkek merkezci/androsentrik",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "poststrukturalistisch",
+    "tr": "postyapısalcı",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "strukturalistisch",
+    "tr": "yapısalcı",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "funktionalistisch",
+    "tr": "işlevselci/fonksiyonalist",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "konflikttheoretisch",
+    "tr": "çatışma teorisi açısından",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "handlungstheoretisch",
+    "tr": "eylem teorisi açısından",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "systemtheoretisch",
+    "tr": "sistem teorisi açısından",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "ethnomethodologisch",
+    "tr": "etnometodolojik",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "symbolisch-interaktionistisch",
+    "tr": "sembolik etkileşimci",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "rational-choice-theoretisch",
+    "tr": "rasyonel tercih teorisine dayalı",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "institutionalistisch",
+    "tr": "kurumsalcı",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "neomarxistisch",
+    "tr": "neo-Marksist",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "kritisch-theoretisch",
+    "tr": "eleştirel kuram perspektifinden",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "diskursanalytisch",
+    "tr": "söylem analitik",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "wissenssoziologisch",
+    "tr": "bilgi sosyolojisi açısından",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "kultursoziologisch",
+    "tr": "kültür sosyolojisi açısından",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "unausweichlich",
+    "tr": "kaçınılmaz/zorunlu",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "unumgänglich",
+    "tr": "kaçınılmaz/vazgeçilmez",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "unvermeidlich",
+    "tr": "önüne geçilmez/kaçınılmaz",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "unabdingbar",
+    "tr": "vazgeçilmez/zorunlu",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "unerlässlich",
+    "tr": "zorunlu/olmaz olmaz",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "zwingend",
+    "tr": "zorlayıcı/mantıksal olarak zorunlu",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "hinreichend",
+    "tr": "yeterli",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "notwendig und hinreichend",
+    "tr": "zorunlu ve yeterli",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "notwendig, aber nicht hinreichend",
+    "tr": "zorunlu ama yeterli değil",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "weder notwendig noch hinreichend",
+    "tr": "ne zorunlu ne yeterli",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "selbstwidersprüchlich",
+    "tr": "kendi kendini çürüten",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "performativ widersprüchlich",
+    "tr": "edimsel olarak çelişkili",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "pragmatisch widersprüchlich",
+    "tr": "pragmatik açıdan çelişkili",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "konzeptuell kohärent",
+    "tr": "kavramsal olarak tutarlı",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "terminologisch präzise",
+    "tr": "terminolojik açıdan kesin",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "begrifflich scharf",
+    "tr": "kavramsal olarak net",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "analytisch trennbar",
+    "tr": "analitik olarak ayrılabilir",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "synthetisch",
+    "tr": "sentetik/bireşimli",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "analytisch",
+    "tr": "analitik/çözümsel",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "apriorisch",
+    "tr": "önsel/deneyimden bağımsız",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "nomologisch",
+    "tr": "yasa temelli/nomolojik",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "idiographisch",
+    "tr": "bireye özgü açıklama yapan",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "nomothetisch",
+    "tr": "genel yasalar arayan",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "hermeneutisch-zirkulär",
+    "tr": "yorumbilimsel çember içeren",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "explanatorisch adequat",
+    "tr": "açıklayıcı olarak yeterli",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "prädiktiv valide",
+    "tr": "öngörü geçerliliği olan",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "konstruktvalide",
+    "tr": "yapı geçerliliği olan",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "inhaltsvalide",
+    "tr": "içerik geçerliliği olan",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "kriteriumsvalide",
+    "tr": "kriter geçerliliği olan",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "ökologisch valide",
+    "tr": "ekolojik geçerliliği olan",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "intersubjektiv nachvollziehbar",
+    "tr": "öznelerarası izlenebilir",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "interrater-reliabel",
+    "tr": "değerlendiriciler arası güvenilir",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "konvergent valide",
+    "tr": "yakınsak geçerli",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "diskriminant valide",
+    "tr": "ayırt edici geçerli",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "faktorenanalytisch",
+    "tr": "faktör analizi temelli",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "latent",
+    "tr": "gizil/örtük/ölçülmeyen",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "manifest",
+    "tr": "gözlemlenebilir/açık",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "operationalisiert",
+    "tr": "işlevselleştirilmiş/ölçülebilir kılınmış",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "standardisiert",
+    "tr": "standartlaştırılmış",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "randomisiert",
+    "tr": "rastgele atanmış/randomize edilmiş",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "wechselseitig",
+    "tr": "karşılıklı/her iki yönlü",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "rekursiv",
+    "tr": "özyinelemeli/tekrara dayalı",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "zirkulär",
+    "tr": "döngüsel/kısır döngü",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "linear-kausal",
+    "tr": "doğrusal nedensel",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "nicht-linear",
+    "tr": "doğrusal olmayan",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "deterministisch-kausal",
+    "tr": "determinist-nedensel",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "probabilistisch",
+    "tr": "olasılıksal/istatistiksel",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "stochastisch",
+    "tr": "stokastik/rastlantısal",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "chaotisch",
+    "tr": "kaotik/öngörülemeyen düzensizlikte",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "fraktal",
+    "tr": "fraktal yapıda",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "ex negativo",
+    "tr": "olumsuzlayarak/reddederek tanımlayan",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "ex positivo",
+    "tr": "olumlamayla tanımlayan",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "per analogiam",
+    "tr": "analoji yoluyla",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "per contrarium",
+    "tr": "karşıtı aracılığıyla",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "a fortiori",
+    "tr": "daha güçlü gerekçeyle/daha da fazla olarak",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "a maiore ad minus",
+    "tr": "büyükten küçüğe çıkarım",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "a minore ad maius",
+    "tr": "küçükten büyüğe çıkarım",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "reductio ad absurdum",
+    "tr": "saçmaya indirgeme",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "ex silentio",
+    "tr": "sessizlikten yola çıkarak",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "in abstracto",
+    "tr": "soyut düzlemde",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "in concreto",
+    "tr": "somut düzlemde/pratikte",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "in extenso",
+    "tr": "tam olarak/geniş biçimde",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "in nuce",
+    "tr": "öz olarak/kısaca",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "prima facie",
+    "tr": "ilk bakışta/görünürde",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "ultima ratio",
+    "tr": "son çare olarak",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "tertium non datur",
+    "tr": "üçüncü olasılık yoktur",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "pars pro toto",
+    "tr": "bütün için parçayı kullanarak",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "post hoc ergo propter hoc",
+    "tr": "sonra geldiği için önce gelenden kaynaklıyordur",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "cum grano salis",
+    "tr": "bir tutam tuzla/ihtiyatla",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "sic et non",
+    "tr": "hem evet hem hayır",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "epistemologisch betrachtet",
+    "tr": "epistemolojik açıdan",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "ontologisch gesehen",
+    "tr": "ontolojik açıdan bakıldığında",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "axiologisch",
+    "tr": "değer yargısı açısından",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "deontologisch",
+    "tr": "ödev ahlakı açısından",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "konsequentialistisch betrachtet",
+    "tr": "sonuçsalcı açıdan",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "teleologisch gedacht",
+    "tr": "ereksel açıdan düşünüldüğünde",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "hermeneutisch",
+    "tr": "yorumbilimsel açıdan",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "phänomenologisch",
+    "tr": "fenomenolojik açıdan",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "dialektisch",
+    "tr": "diyalektik açıdan",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "kritisch-rationalistisch",
+    "tr": "eleştirel rasyonalist açıdan",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "falsifikatorisch",
+    "tr": "yanlışlayıcı bir yaklaşımla",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "verifikatorisch",
+    "tr": "doğrulayıcı bir yaklaşımla",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "induktiv-empirisch",
+    "tr": "tümevarımsal-ampirik biçimde",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "deduktiv-nomologisch",
+    "tr": "tümden gelimli-nomolojik biçimde",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "abduktiv",
+    "tr": "en iyi açıklamayı arayarak",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "hypothetisch-deduktiv",
+    "tr": "hipotetik-tümden gelimli biçimde",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "transzendental",
+    "tr": "aşkınsal düzlemde",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "immanent-kritisch",
+    "tr": "içkin eleştiri yöntemiyle",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "strukturanalytisch",
+    "tr": "yapı analitiği yöntemiyle",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "dekonstruktivistisch",
+    "tr": "yapısökücü bir perspektiften",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "in der Tradition von",
+    "tr": "... geleneğinde",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "in Anlehnung an",
+    "tr": "... örnek alınarak/izinde",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "in Abgrenzung zu",
+    "tr": "... ile sınır koyarak/... dan ayrışarak",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "in kritischer Auseinandersetzung mit",
+    "tr": "... ile eleştirel yüzleşerek",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "unter Rekurs auf",
+    "tr": "... e başvurarak",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "mit Bezug auf",
+    "tr": "... e atıfla",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "in Bezug auf",
+    "tr": "... e ilişkin",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "im Rückgriff auf",
+    "tr": "... e dayanarayak/başvurarak",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "vor dem Hintergrund",
+    "tr": "... arka planında/bağlamında",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "im Lichte von",
+    "tr": "... ışığında",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "angesichts",
+    "tr": "... karşısında/göz önüne alındığında",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "im Hinblick auf",
+    "tr": "... gözetilerek/açısından",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "mit Blick auf",
+    "tr": "... a yönelik olarak",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "in Anbetracht",
+    "tr": "... hesaba katıldığında",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "unter dem Gesichtspunkt",
+    "tr": "... bakış açısından",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "aus der Perspektive von",
+    "tr": "... perspektifinden",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "vom Standpunkt aus",
+    "tr": "... bakış noktasından",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "hinsichtlich",
+    "tr": "... bakımından",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "bezüglich",
+    "tr": "... hakkında/ile ilgili olarak",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "betreffend",
+    "tr": "... konusunda/... e dair",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "nichtsdestominder",
+    "tr": "buna karşın/yine de (resmi)",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "wennschon",
+    "tr": "olsa bile/ne de olsa",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "wiewohl",
+    "tr": "her ne kadar ... olsa da (edebi)",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "obzwar",
+    "tr": "her ne kadar (Avusturya Almancası)",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "obgleich",
+    "tr": "her ne kadar/olmakla birlikte",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "obschon",
+    "tr": "olmasına rağmen/olmakla birlikte",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "wenngleich",
+    "tr": "her ne kadar olsa da",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "obwohl",
+    "tr": "her ne kadar/olmasına rağmen",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "gleichwohl",
+    "tr": "buna rağmen/yine de (resmi)",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "indessen",
+    "tr": "buna rağmen/öte yandan (edebi)",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "indes",
+    "tr": "oysa/buna karşın (edebi kısa biçim)",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "hingegen",
+    "tr": "buna karşın/oysa",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "wohingegen",
+    "tr": "oysa/buna karşın",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "demgegenüber",
+    "tr": "buna karşın/buna kıyasla",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "im Kontrast dazu",
+    "tr": "bununla çelişkili olarak",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "in scharfem Kontrast",
+    "tr": "keskin bir karşıtlıkla",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "in diametralem Gegensatz",
+    "tr": "tam karşıt biçimde",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "mithin",
+    "tr": "dolayısıyla/bu nedenle (resmi)",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "sohin",
+    "tr": "bundan ötürü (Avusturya hukuku)",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "ergo",
+    "tr": "öyleyse/dolayısıyla",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "zusammenfassend lässt sich sagen",
+    "tr": "özetle şunu söylemek mümkündür",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "abschließend sei bemerkt",
+    "tr": "son olarak şunu belirtmek gerekir",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "kritisch zu hinterfragen ist",
+    "tr": "eleştirel biçimde sorgulanması gereken şudur",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "einschränkend ist zu bemerken",
+    "tr": "şunu belirtmek gerekir ki",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "differenzierend muss man sagen",
+    "tr": "nüanslı bir değerlendirmeyle söylemek gerekirse",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "verallgemeinernd",
+    "tr": "genelleyerek/tümelgeçim yoluyla",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "vereinfachend dargestellt",
+    "tr": "basitleştirerek ifade edildiğinde",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "zuspitzend formuliert",
+    "tr": "keskin biçimde ifade edilirse",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "pointiert ausgedrückt",
+    "tr": "öz biçimde dile getirilirse",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "metaphorisch gesprochen",
+    "tr": "mecazi olarak konuşulursa",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "bildlich ausgedrückt",
+    "tr": "görüntüsel/imgeli biçimde söylenirse",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "verkürzt gesagt",
+    "tr": "kısaltarak ifade edilirse",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "präziser formuliert",
+    "tr": "daha kesin ifadeyle",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "genauer gesagt",
+    "tr": "daha doğrusu/daha kesin biçimde söylemek gerekirse",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "mit anderen Worten",
+    "tr": "başka bir deyişle",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "anders ausgedrückt",
+    "tr": "farklı biçimde ifade edilirse",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "das heißt konkret",
+    "tr": "bu somut olarak şu anlama gelir",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "das bedeutet im Umkehrschluss",
+    "tr": "bunun tersine çevrilmiş sonucu şudur",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "im Gegenschluss",
+    "tr": "karşı çıkarım olarak",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "mutatis mutandis übertragen",
+    "tr": "gerekli değişiklikler yapılarak aktarılırsa",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "historisch situiert",
+    "tr": "tarihsel olarak konumlandırılmış",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "kulturell eingebettet",
+    "tr": "kültürel bağlamda yerleşik",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "kontextuell bedingt",
+    "tr": "bağlam koşullarına bağlı",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "strukturell verankert",
+    "tr": "yapısal olarak köklenmiş",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "gesellschaftlich eingebunden",
+    "tr": "toplumsal açıdan bağımlı",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "diskursiv konstituiert",
+    "tr": "söylem aracılığıyla oluşturulmuş",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "sozial konstruiert",
+    "tr": "sosyal olarak inşa edilmiş",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "machtvermittelt",
+    "tr": "güç ilişkileriyle dolayımlanmış",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "interessengeleitet",
+    "tr": "çıkar güdümlü/çıkar odaklı",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "ideologisch überformt",
+    "tr": "ideolojik açıdan biçimlendirilmiş",
+    "level": "C1",
+    "type": "adverb"
+  },
+  {
+    "de": "wessen Schuld",
+    "tr": "kimin suçu/kusuru",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "wessen Verdienst",
+    "tr": "kimin başarısı/katkısı",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "wessen Verantwortung",
+    "tr": "kimin sorumluluğu",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "wessen Interesse",
+    "tr": "kimin çıkarı",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "wessen Einfluss",
+    "tr": "kimin etkisi",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "wer von wem",
+    "tr": "kim kimden",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "wer wen warum",
+    "tr": "kim kimi neden",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "wem gegenüber",
+    "tr": "kime karşı/kime yönelik",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "wen betrifft das",
+    "tr": "bu kimi ilgilendiriyor",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "was dagegen spricht",
+    "tr": "buna karşı ne var",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "welchem zufolge",
+    "tr": "ki buna göre (erkil/eşyansız)",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "welcher zufolge",
+    "tr": "ki buna göre (dişil)",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "welchen zugunsten",
+    "tr": "ki bunun lehine (erkil)",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "welcher zugunsten",
+    "tr": "ki bunun lehine (dişil)",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "welchem zuliebe",
+    "tr": "ki bunun hatırına",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "was wofür steht",
+    "tr": "ne neyi temsil eder",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "was woraus folgt",
+    "tr": "ne ne anlama gelir",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "was wozu dient",
+    "tr": "ne ne işe yarar",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "was womit gemeint ist",
+    "tr": "ne ile kastedilmektedir",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "was wonach gesucht wird",
+    "tr": "neyin arandığı",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "worüber hinaus",
+    "tr": "bunun ötesinde/bunun yanı sıra",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "worunter zu verstehen ist",
+    "tr": "bununla anlaşılan/bunun altında ne yattığı",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "womit verbunden ist",
+    "tr": "buna bağlı olan/bununla ilişkili olan",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "worauf es ankommt",
+    "tr": "neyin önemli olduğu/neyin belirleyici olduğu",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "worum es geht",
+    "tr": "asıl konunun ne olduğu",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "wofür das steht",
+    "tr": "bunun neyi temsil ettiği",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "wodurch gekennzeichnet",
+    "tr": "neyle karakterize edilmiş",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "wonach ausgerichtet",
+    "tr": "neye yönelik düzenlenmiş",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "worin sich zeigt",
+    "tr": "neyin kendini gösterdiği",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "worin besteht",
+    "tr": "neden ibaret olduğu",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "woran erkennbar",
+    "tr": "neden tanınabilir",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "woran festzuhalten ist",
+    "tr": "neye tutunulması gerektiği",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "worauf verweist",
+    "tr": "neye gönderme yapıldığı",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "woraus sich ergibt",
+    "tr": "bundan ne çıktığı",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "woraus resultiert",
+    "tr": "bunun sonucunda ne oluştuğu",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "worüber nachzudenken ist",
+    "tr": "üzerinde düşünülmesi gereken",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "wozu dies führt",
+    "tr": "bunun nereye götürdüğü",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "wovon abzugrenzen ist",
+    "tr": "neyle sınır çizilmesi gereken",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "wovon abhängt",
+    "tr": "neyin neye bağlı olduğu",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "wobei zu beachten ist",
+    "tr": "bunu yaparken dikkat edilmesi gereken",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "eben das",
+    "tr": "tam da bu/işte bu (eşyansız)",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "eben jenes",
+    "tr": "tam da şu (eşyansız)",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "genau das",
+    "tr": "kesinlikle bu/tam olarak bu",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "genau jenes",
+    "tr": "kesinlikle şu/tam da o",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "selbiges gilt für",
+    "tr": "aynısı şunu için de geçerlidir",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "analoges gilt für",
+    "tr": "benzer şekilde şunu için de",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "entsprechendes gilt",
+    "tr": "aynı şey/benzer olan da geçerli",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "nichts dergleichen",
+    "tr": "bu tür hiçbir şey",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "etwas dergleichen",
+    "tr": "bu türden bir şey",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "dergleichen mehr",
+    "tr": "ve bunun gibi daha fazlası",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "solcherlei",
+    "tr": "böyle türden şeyler",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "keinerlei derartiges",
+    "tr": "bu türden hiçbir şey",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "allerlei solches",
+    "tr": "her türlü böyle şey",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "mancherlei solches",
+    "tr": "çeşitli böyle şeyler",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "sonstiges",
+    "tr": "diğerleri/bunun dışında kalanlar",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "übliches und außergewöhnliches",
+    "tr": "olağan ve olağandışı olanlar",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "vorangegangenes und folgendes",
+    "tr": "öncekiler ve sonrakiler",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "letzteres und ersteres",
+    "tr": "ikincisi ve birincisi",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "obiges und nachstehendes",
+    "tr": "yukarıdaki ve aşağıdaki",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "vorgenanntes und nachfolgendes",
+    "tr": "daha önce belirtilen ve onu izleyen",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "niemand anderen",
+    "tr": "başka kimseyi",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "nichts anderes als",
+    "tr": "başka hiçbir şey değil ... den başka",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "alles andere als",
+    "tr": "her şeyden fazla/kesinlikle değil",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "jedweder Art",
+    "tr": "her türlü",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "keinerlei Art",
+    "tr": "hiçbir türlü",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "mannigfaltiges",
+    "tr": "çeşitli/türlü türlü şeyler",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "vielerlei",
+    "tr": "türlü türlü/pek çok çeşit",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "einerlei",
+    "tr": "bir tür/fark etmez (edebi)",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "zweierlei",
+    "tr": "iki tür/iki çeşit",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "dreierlei",
+    "tr": "üç tür/üç çeşit",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "mancherlei",
+    "tr": "çeşitli türde/bazı türde",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "vielerlei Arten von",
+    "tr": "pek çok türde",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "keinerlei Anlass zu",
+    "tr": "hiçbir gerekçe olmaksızın",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "aus mancherlei Gründen",
+    "tr": "çeşitli nedenlerle",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "auf vielerlei Weise",
+    "tr": "çeşitli yollarla",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "sich selbst genügend",
+    "tr": "kendine yeterli/öz-yeterli",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "sich selbst begründend",
+    "tr": "kendini temellendiren/öz-temelli",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "sich selbst widersprechend",
+    "tr": "kendisiyle çelişen",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "sich selbst aufhebend",
+    "tr": "kendini iptal eden/diyalektik olarak aşılan",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "sich selbst transzendierend",
+    "tr": "kendini aşan/öz aşkın",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "sich selbst reproduzierend",
+    "tr": "kendini yeniden üreten",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "sich selbst regulierend",
+    "tr": "kendi kendini düzenleyen",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "sich selbst organisierend",
+    "tr": "kendi kendini örgütleyen",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "sich selbst erhaltend",
+    "tr": "kendini koruyan/öz-koruyucu",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "sich selbst referenziell",
+    "tr": "öz-göndergeli/self-referential",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "der eine oder andere",
+    "tr": "biri ya da diğeri/şu ya da bu",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "das eine und das andere",
+    "tr": "biri ve diğeri/hem bu hem o",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "weder das eine noch das andere",
+    "tr": "ne biri ne de diğeri",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "sowohl das eine als auch das andere",
+    "tr": "hem biri hem de diğeri",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "dies und jenes",
+    "tr": "şu bu/çeşitli şeyler",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "alldem zum Trotz",
+    "tr": "tüm bunlara rağmen",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "alldem zufolge",
+    "tr": "tüm bunlardan anlaşıldığına göre",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "keinem von beiden",
+    "tr": "ikisinden de hiçbirine",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "von jedem einzelnen",
+    "tr": "her birinden tek tek",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "von niemandem sonst",
+    "tr": "başka kimse tarafından değil",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "von eben jenem",
+    "tr": "tam da o kişi/şeyden",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "durch keinen anderen als",
+    "tr": "... den başkası tarafından değil",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "in Bezug auf beides",
+    "tr": "her ikisine de ilişkin",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "was das eine wie das andere betrifft",
+    "tr": "biri kadar diğerini de kapsayacak biçimde",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "im Verhältnis zueinander",
+    "tr": "birbirleriyle olan ilişkilerinde",
+    "level": "C1",
+    "type": "pronoun"
+  },
+  {
+    "de": "die Rechtsstaatlichkeit",
+    "tr": "hukukun üstünlüğü",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "das Gewaltmonopol",
+    "tr": "şiddet tekeli (devletin)",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Legitimitätskrise",
+    "tr": "meşruiyet krizi",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Repräsentationskrise",
+    "tr": "temsil krizi",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Regierbarkeit",
+    "tr": "yönetilebilirlik",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Unregierbarkeit",
+    "tr": "yönetilemezlik",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Staatszerfall",
+    "tr": "devletin çöküşü",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die politische Apathie",
+    "tr": "siyasi ilgisizlik/apati",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Politikverdrossenheit",
+    "tr": "siyasetten bıkkınlık",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Populismusvorwurf",
+    "tr": "popülizm suçlaması",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Wissensgesellschaft",
+    "tr": "bilgi toplumu",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Informationsasymmetrie",
+    "tr": "bilgi asimetrisi",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Medienkompetenz",
+    "tr": "medya okuryazarlığı",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Echokammer",
+    "tr": "yankı odası/filtrebalonu",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Filterblase",
+    "tr": "filtre balonu",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Desinformation",
+    "tr": "dezenformasyon/kasıtlı yanlış bilgi",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Fehlinformation",
+    "tr": "yanlış bilgi/hata kaynaklı",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Gegendarstellung",
+    "tr": "düzeltme/çürütme/karşı açıklama",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Meinungsbildung",
+    "tr": "görüş oluşturma süreci",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Agenda-Setting-Effekt",
+    "tr": "gündem belirleme etkisi",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "das Framing",
+    "tr": "çerçeveleme/sunuş biçimi",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "das Priming",
+    "tr": "hazırlama etkisi/priming",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Nudge",
+    "tr": "dürtü/yönlendirme (davranış ekonomisi)",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Verhaltensökonomie",
+    "tr": "davranış ekonomisi",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Spieltheorie",
+    "tr": "oyun teorisi",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "das Gefangenendilemma",
+    "tr": "tutuklu ikilemi",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Nash-Gleichgewicht",
+    "tr": "Nash dengesi",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Erwartungswert",
+    "tr": "beklenen değer",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Risikoaversion",
+    "tr": "riskten kaçınma",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Risikobereitschaft",
+    "tr": "risk alma isteği",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die VerlustAversion",
+    "tr": "kayıptan kaçınma eğilimi",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die kognitive Verzerrung",
+    "tr": "bilişsel çarpıtma/önyargı",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Ankereffekt",
+    "tr": "çıpa etkisi/ankraj",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Verfügbarkeitsheuristik",
+    "tr": "erişilebilirlik sezgisi",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Repräsentativitätsheuristik",
+    "tr": "temsiliyet sezgisi",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Entscheidungstheorie",
+    "tr": "karar teorisi",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Rubikon-Effekt",
+    "tr": "Rubikon etkisi/geri dönüşsüz kararlar",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Handlungstheorie",
+    "tr": "eylem teorisi",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Intentionalismus",
+    "tr": "niyetselcilik/intentionalism",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Konsequentialismus",
+    "tr": "sonuççuluk/consequentialism",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Kontraktualismus",
+    "tr": "sözleşmecilik/contractualism",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Kommunitarismus",
+    "tr": "toplulukçuluk/communitarianism",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Liberalismus",
+    "tr": "liberalizm",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Libertarismus",
+    "tr": "libertaryanizm",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Egalitarismus",
+    "tr": "eşitlikçilik",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Utilitarismus",
+    "tr": "faydacılık",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Kantianismus",
+    "tr": "Kantçılık",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Aristotelismus",
+    "tr": "Aristotelesçilik",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "der Platonismus",
+    "tr": "Platonculuk",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Tugendethik",
+    "tr": "erdem etiği",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Diskursethik",
+    "tr": "söylem etiği (Habermas)",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Pflichtenethik",
+    "tr": "ödev etiği (Kant)",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "die Sorgeethik",
+    "tr": "bakım/özen etiği",
+    "level": "C1",
+    "type": "noun"
+  },
+  {
+    "de": "utilitaristisch",
+    "tr": "faydacı/yararcı",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "kantianisch",
+    "tr": "Kantçı/Kant felsefesine ait",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "aristotelisch",
+    "tr": "Aristoteles'e ait/Aristotelesçi",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "platonisch",
+    "tr": "Platoncu/platonik",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "sokratisch",
+    "tr": "Sokratik/Sokrates yöntemine dayalı",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "hegelianisch",
+    "tr": "Hegelci",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "marxistisch",
+    "tr": "Marksist",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "nietzscheanisch",
+    "tr": "Nietzscheci",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "heideggerianisch",
+    "tr": "Heidegger'e ait",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "wittgensteinianisch",
+    "tr": "Wittgenstein'a ait",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "habermasianisch",
+    "tr": "Habermas'a ait",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "rawlsianisch",
+    "tr": "Rawls'a ait",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "foucaultianisch",
+    "tr": "Foucault'ya ait/Foucaultcu",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "derridianisch",
+    "tr": "Derrida'ya ait",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "bourdieuisch",
+    "tr": "Bourdieu'ya ait",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "latourianisch",
+    "tr": "Latour'a ait",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "luhmannianisch",
+    "tr": "Luhmann'a ait/Luhmanncu",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "habermasisch",
+    "tr": "Habermas'çı söylem etiğine dayalı",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "weberian",
+    "tr": "Weberci/Weber'e ait",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "durkheimsich",
+    "tr": "Durkheim'a ait",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "verfahrenstechnisch",
+    "tr": "prosedürel/yöntemsel",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "prozedural",
+    "tr": "prosedürel/süreç odaklı",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "substantiell",
+    "tr": "özsel/içeriksel/gerçek anlamda",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "formal-prozedural",
+    "tr": "biçimsel-prosedürel",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "material-substantiell",
+    "tr": "maddi-özsel",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "kommunikativ-rational",
+    "tr": "iletişimsel-rasyonel",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "strategisch-rational",
+    "tr": "stratejik-rasyonel",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "verständigungsorientiert",
+    "tr": "anlayışa yönelik",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "erfolgsorientiert",
+    "tr": "başarıya yönelik",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "herrschaftsfrei",
+    "tr": "egemenlikten arındırılmış",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "herrschaftsstabilisierend",
+    "tr": "iktidarı pekiştirici",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "emanzipierend",
+    "tr": "özgürleştirici",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "affirmativ",
+    "tr": "onaylayıcı/olumlu",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "negierend",
+    "tr": "reddedici/inkârcı",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "überwindend",
+    "tr": "aşıcı/aşan",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "transformativ",
+    "tr": "dönüştürücü",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "reproduktiv",
+    "tr": "yeniden üretici",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "inventiv",
+    "tr": "buluşçu/yaratıcı",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "generativ",
+    "tr": "üretici/jeneratif",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "degenerativ",
+    "tr": "yozlaştırıcı/bozucu",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "progressiv-evolutionär",
+    "tr": "aşamalı-evrimsel",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "revolutionär-disruptiv",
+    "tr": "devrimci-yıkıcı",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "pfadabhängig",
+    "tr": "yola bağımlı/tarihsel iz bırakan",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "pfadbrechend",
+    "tr": "yeni yol açan",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "kontextgeneralisierend",
+    "tr": "bağlamdan genelleyen",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "kontextsensitiv",
+    "tr": "bağlama duyarlı",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "skalierbar",
+    "tr": "ölçeklenebilir",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "nicht skalierbar",
+    "tr": "ölçeklenemeyen",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "modular",
+    "tr": "modüler",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "integriert",
+    "tr": "entegre/bütünleşik",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "fragmentiert",
+    "tr": "parçalanmış/bölük pörçük",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "fragmentarisch",
+    "tr": "tamamlanmamış/parçalı",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "rudimentär",
+    "tr": "ilkel/gelişmemiş/temel düzeyde",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "vestigial",
+    "tr": "kalıntı niteliğinde/atık",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "emergent",
+    "tr": "ortaya çıkan/beliren",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "subsistent",
+    "tr": "bağımsızca var olan",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "inhärent",
+    "tr": "içkin/doğasında olan",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "akzidentiell",
+    "tr": "arızî/tesadüfi (felsefe)",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "essenziell-notwendig",
+    "tr": "özsel-zorunlu",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "akzidentiell-kontingent",
+    "tr": "arızî-olumsal",
+    "level": "C1",
+    "type": "adjective"
+  },
+  {
+    "de": "kategorial-apriorisch",
+    "tr": "kategorik-önsel",
+    "level": "C1",
+    "type": "adjective"
+  }
+]
